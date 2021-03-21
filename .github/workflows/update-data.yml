@@ -41,7 +41,7 @@ jobs:
         run: git submodule update --remote --merge cities/belgium/liege
 
       - name: Run update
-        run: composer run update-data -- --city=liege
+        run: composer run update-data -- --city=belgium/liege
 
       # - name: Upload artifact
       #   uses: actions/upload-artifact@v2
