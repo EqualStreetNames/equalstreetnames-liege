@@ -134,7 +134,6 @@ Al'rodje-creu,,,way
 "Boulevard du 2e Lanciers",,,way
 "Boulevard du 3ème Génie",,,way
 "Boulevard du Rectorat",,,way
-Burenville,,,way
 "Chaussée de Gaulle",,,way
 "Chaussée de Tongres",,,way
 "Chaussée des Prés",,,way
@@ -188,6 +187,7 @@ Burenville,,,way
 "Clos des Cherwiers",,,way
 "Clos des Everglades",,,way
 "Clos des Farfadets",,,way
+"Clos des Houyeux",,,way
 "Clos des Lavandières",,,way
 "Clos des Mésanges",,,way
 "Clos des Phosphatières",,,way
@@ -411,11 +411,9 @@ Lavaniste-Voie,,,way
 "Pont de Fétinne",,,way
 "Pont de Fragnée",,,way
 "Pont de Huy",,,way
-"Pont de Liège",,,way
 "Pont de Longdoz",,,way
 "Pont de Milsaucy",,,way
 "Pont de Namur",,,way
-"Pont de Sauheid",,,way
 "Pont des Arches",,,way
 "Pont des Bayards",,,way
 "Pont des Bruyères",,,way
@@ -484,7 +482,6 @@ Rodgy-Thier,,,way
 "Rond-Point Marcel Florkin",,,way
 "Rond-Point Simone David Constant",,,way
 "Route de Boncelles",,,way
-"Route de Légipont",,,way
 "Route du Condroz",,,way
 "Rue ""Sans Nom""",,,way
 "Rue Achille Lebeau",,,way
@@ -746,6 +743,7 @@ Rodgy-Thier,,,way
 "Rue Grand d'Jan",,,way
 "Rue Grand-Bêche",,,way
 "Rue Grande Tour",,,way
+"Rue Grande-Bêche",,,way
 "Rue Grandgagnage",,,way
 "Rue Gravioule",,,way
 "Rue Grégoire",,,way
@@ -938,10 +936,10 @@ Rodgy-Thier,,,way
 "Rue Michel Moutschen",,,way
 "Rue Mississippi",,,way
 "Rue Molinvaux",,,way
-"Rue Monrinval",,,way
 "Rue Montgomery",,,way
 "Rue Monulphe",,,way
 "Rue Moray",,,way
+"Rue Morinval",,,way
 "Rue Mosselman",,,way
 "Rue Moulan",,,way
 "Rue Moulin-à-Vent",,,way
@@ -1169,6 +1167,7 @@ Rodgy-Thier,,,way
 "Rue d'Embourg",,,way
 "Rue d'Esch-Sur-Alzette",,,way
 "Rue d'Harscamp",,,way
+"Rue d'Italie",,,way
 "Rue d'Omalius",,,way
 "Rue d'Ougrée",,,way
 "Rue de Belle-Île",,,way
@@ -1211,6 +1210,7 @@ Rodgy-Thier,,,way
 "Rue de L'enclos",,,way
 "Rue de Lantin",,,way
 "Rue de Latour",,,way
+"Rue de Légipont",,,way
 "Rue de Liège",,,way
 "Rue de Londres",,,way
 "Rue de Magdebourg",,,way
@@ -1241,6 +1241,7 @@ Rodgy-Thier,,,way
 "Rue de Souvret",,,way
 "Rue de Spa",,,way
 "Rue de Stavelot",,,way
+"Rue de Steppes",,,way
 "Rue de Streupas",,,way
 "Rue de Tilff",,,way
 "Rue de Tilleur",,,way
@@ -1317,6 +1318,7 @@ Rodgy-Thier,,,way
 "Rue de la Boulangerie",,,way
 "Rue de la Brasserie",,,way
 "Rue de la Briqueterie",,,way
+"Rue de la Bure aux Femmes",,,way
 "Rue de la Butte",,,way
 "Rue de la Câblerie",,,way
 "Rue de la Canonnerie",,,way
@@ -1402,8 +1404,8 @@ Rodgy-Thier,,,way
 "Rue de la Vaussale",,,way
 "Rue de la Veine Sothuy",,,way
 "Rue de la Vesdre",,,way
+"Rue de la Vieille-Tour",,,way
 "Rue de la Vielle Montagne",,,way
-"Rue de la Vielle-Tour",,,way
 "Rue de la Violette",,,way
 "Rue de la Wache",,,way
 "Rue de'l Rodge Cinse",,,way
@@ -1792,6 +1794,7 @@ Rodgy-Thier,,,way
 "Sentier de liaison",,,way
 "Sentier des Coteaux",,,way
 "Sentier des Meuniers",,,way
+"Sentier des Trieuses",,,way
 "Sentier des Trois Chemins",,,way
 "Sentier des Waides",,,way
 "Sentier des vaches",,,way
@@ -1821,10 +1824,7 @@ Rodgy-Thier,,,way
 "Thier du Bouhay",,,way
 "Thier du Goreu",,,way
 "Traverse des Architectes",,,way
-"Tunnel de Cointe",,,way
-"Tunnel de Kinkempois",,,way
 "Tunnel de la Chartreuse",,,way
-"Tunnel des Grosses Battes",,,way
 "Tunnel du Benelux",,,way
 "Verte Voie",,,way
 "Vieille Voie de Bellaire",,,way
