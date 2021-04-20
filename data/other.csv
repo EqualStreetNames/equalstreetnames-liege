@@ -1,4 +1,5 @@
 name,gender,wikidata,type
+"Avenue de Lille",,Q648,way
 "Rue de Bruxelles",,Q239,way
 "Aire de Glain",,,way
 Al'rodje-Creû,,,way
@@ -12,7 +13,6 @@ Al'rodje-creu,,,way
 "Allée de l'Absent",,,way
 "Allée de l'Innovation",,,way
 "Allée de la Cense Rouge",,,way
-"Allée de la Cense Rouge - Rue del Rodje Cinse",,,way
 "Allée de la Découverte",,,way
 "Allée de la Physique",,,way
 "Allée des Abbesses",,,way
@@ -66,7 +66,6 @@ Al'rodje-creu,,,way
 "Avenue de Fontainebleau",,,way
 "Avenue de Jupille",,,way
 "Avenue de Juprelle",,,way
-"Avenue de Lille",,,way
 "Avenue de Nancy",,,way
 "Avenue de Péville",,,way
 "Avenue de Voroux",,,way
@@ -320,7 +319,6 @@ Lavaniste-Voie,,,way
 "Place Joseph Dejardin",,,way
 "Place Joseph Willem",,,way
 "Place Jules Seeliger",,,way
-"Place Louis de Geer",,,way
 "Place Nicolas Bernimolin",,,way
 "Place Notger",,,way
 "Place Pierre Clerdent",,,relation
@@ -741,7 +739,6 @@ Rodgy-Thier,,,way
 "Rue Goswin",,,way
 "Rue Gramme",,,way
 "Rue Grand d'Jan",,,way
-"Rue Grand-Bêche",,,way
 "Rue Grande Tour",,,way
 "Rue Grande-Bêche",,,way
 "Rue Grandgagnage",,,way
@@ -1324,6 +1321,7 @@ Rodgy-Thier,,,way
 "Rue de la Canonnerie",,,way
 "Rue de la Casquette",,,way
 "Rue de la Cathédrale",,,way
+"Rue de la Cense Rouge",,,way
 "Rue de la Centrale",,,way
 "Rue de la Chaîne",,,way
 "Rue de la Chapelle",,,way
@@ -1408,7 +1406,6 @@ Rodgy-Thier,,,way
 "Rue de la Vielle Montagne",,,way
 "Rue de la Violette",,,way
 "Rue de la Wache",,,way
-"Rue de'l Rodge Cinse",,,way
 "Rue des Abeilles",,,way
 "Rue des Acacias",,,way
 "Rue des Aguesses",,,way
@@ -1819,6 +1816,7 @@ Rodgy-Thier,,,way
 "Thier de la Chartreuse",,,way
 "Thier de la Fontaine",,,way
 "Thier des Critchions",,,way
+"Thier des Mohets",,,way
 "Thier des Vignobles",,,way
 "Thier des mohets",,,way
 "Thier du Bailly",,,way
