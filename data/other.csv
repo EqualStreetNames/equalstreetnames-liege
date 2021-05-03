@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Avenue de Lille",wikidata,,Q648,way
+"Pont Atlas",wikidata,,Q2869444,way
 "Rue de Bruxelles",wikidata,,Q239,way
 "Aire de Glain",,,,way
 Al'rodje-Creû,,,,way
@@ -43,7 +44,6 @@ Al'rodje-creu,,,,way
 "Avenue Emile Jenissen",,,,way
 "Avenue Francisco Ferrer",,,,way
 "Avenue Freddy Terwagne",,,,way
-"Avenue Georges Truffaut",,,,way
 "Avenue Henri Borguet",,,,way
 "Avenue Henri Lonay",,,,way
 "Avenue Henri Piedboeuf",,,,way
@@ -105,7 +105,6 @@ Al'rodje-creu,,,,way
 "Boulevard Ernest Solvay",,,,way
 "Boulevard Fosse-Crahay",,,,way
 "Boulevard Frankignoul",,,,way
-"Boulevard Frère-Orban",,,,way
 "Boulevard Gustave Kleyer",,,,way
 "Boulevard Hector Denis",,,,way
 "Boulevard Jean de Wilde",,,,way
@@ -322,7 +321,6 @@ Lavaniste-Voie,,,,way
 "Place Nicolas Bernimolin",,,,way
 "Place Notger",,,,way
 "Place Pierre Clerdent",,,,relation
-"Place Reine Astrid",,,,way
 "Place Saint Denis",,,,way
 "Place Saint Jacques",,,,way
 "Place Saint-Barthélemy",,,,relation
@@ -393,7 +391,6 @@ Lavaniste-Voie,,,,way
 "Place gît le Coq",,,,way
 "Plateau du Bouhay",,,,way
 "Pont Albert 1er",,,,way
-"Pont Atlas",,,,way
 "Pont Biais",,,,way
 "Pont Gaston",,,,way
 "Pont Gramme",,,,way
@@ -428,6 +425,7 @@ Publémont,,,,way
 "Quai Banning",,,,way
 "Quai Bonaparte",,,,way
 "Quai Churchill",,,,way
+"Quai Edouard Van Beneden",,,,way
 "Quai Édouard Van Beneden",,,,way
 "Quai Gloesener",,,,way
 "Quai Godefroid Kurth",,,,way
@@ -438,7 +436,6 @@ Publémont,,,,way
 "Quai Mativa",,,,way
 "Quai Mickiels",,,,way
 "Quai Mozart",,,,way
-"Quai Paul van Hoegaerden",,,,way
 "Quai Roosevelt",,,,way
 "Quai Saint-Léonard",,,,way
 "Quai Saint-Paul de Sinçay",,,,way
@@ -450,7 +447,6 @@ Publémont,,,,way
 "Quai de Gaulle",,,,way
 "Quai de Longdoz",,,,way
 "Quai de Maestricht",,,,way
-"Quai de Rome",,,,way
 "Quai de Wallonie",,,,way
 "Quai de l'Ourthe",,,,way
 "Quai de la Boverie",,,,way
@@ -646,10 +642,12 @@ Rodgy-Thier,,,,way
 "Rue Édouard Marcotty",,,,way
 "Rue Édouard Remouchamps",,,,way
 "Rue Édouard Wacken",,,,way
+"Rue Elise Grandprez",,,,way
 "Rue Élise Grandprez",,,,way
 "Rue Émile Collard",,,,way
 "Rue Émile Gérard",,,,way
 "Rue Emile Vandervelde",,,,way
+"Rue Émile Vandervelde",,,,way
 "Rue Emile Vandervelde - Rue Sainte-Marguerite",,,,way
 "Rue Émile Verhaeren",,,,way
 "Rue Émile Zola",,,,way
@@ -1146,7 +1144,6 @@ Rodgy-Thier,,,,way
 "Rue Wibrin",,,,way
 "Rue Wiertz",,,,way
 "Rue Wilmart",,,,way
-"Rue Winston Churchill",,,,way
 "Rue Xhovémont",,,,way
 "Rue Zabay",,,,way
 "Rue à Matche",,,,way
@@ -1463,6 +1460,7 @@ Rodgy-Thier,,,,way
 "Rue des Coudriers",,,,way
 "Rue des Cours",,,,way
 "Rue des Courteaux",,,,relation
+"Rue des Crahlis",,,,way
 "Rue des Crâhlis",,,,way
 "Rue des Critchions",,,,way
 "Rue des Critchons",,,,way
@@ -1508,6 +1506,7 @@ Rodgy-Thier,,,,way
 "Rue des Gravillons",,,,way
 "Rue des Grignoux",,,,way
 "Rue des Guillemins",,,,way
+"Rue des Haisses",,,,way
 "Rue des Haïsses",,,,way
 "Rue des Haveurs",,,,way
 "Rue des Heids",,,,way
@@ -1577,6 +1576,7 @@ Rodgy-Thier,,,,way
 "Rue des Pontons",,,,way
 "Rue des Porteuses d'Eau",,,,way
 "Rue des Prairies",,,,way
+"Rue des Prebendiers",,,,way
 "Rue des Prébendiers",,,,way
 "Rue des Prémontrés",,,,way
 "Rue des Prés",,,,way
@@ -1748,6 +1748,7 @@ Rodgy-Thier,,,,way
 "Rue du Sart-Moray",,,,way
 "Rue du Snapeux",,,,way
 "Rue du Stade",,,,way
+"Rue du Stalon",,,,way
 "Rue du Taillis",,,,way
 "Rue du Terris",,,,way
 "Rue du Thier-à-Liège",,,,way
