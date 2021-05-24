@@ -146,19 +146,25 @@ Al'rodje-creu,,,,way
 "Chemin d'Éole",,,,way
 "Chemin de Grand Maître",,,,way
 "Chemin de Rabosée",,,,way
+"Chemin de l'Auberge",,,,way
 "Chemin de l'Ecurie",,,,way
 "Chemin de l'Osier",,,,way
 "Chemin de la Botanique",,,,way
 "Chemin de la Citadelle",,,,way
 "Chemin de la Clepsydre",,,,way
 "Chemin de la Curiosité",,,,way
+"Chemin de la Cuvette",,,,way
+"Chemin de la Grotte",,,,way
+"Chemin de la Lande",,,,way
 "Chemin de la Soquette",,,,way
 "Chemin des Cèdres",,,,way
+"Chemin des Potagers",,,,way
 "Chemin des Puisatiers",,,,way
 "Chemin des Samares",,,,way
 "Chemin des Soupirs",,,,way
 "Chemin des Trèfles des Prés",,,,way
 "Chemin du Bois",,,,way
+"Chemin du Casino",,,,way
 "Chemin du Facteur",,,,way
 "Chemin du Tilleul",,,,way
 "Chemin du Trèfle",,,,way
@@ -323,13 +329,13 @@ Lavaniste-Voie,,,,way
 "Place Pierre Clerdent",,,,relation
 "Place Saint Denis",,,,way
 "Place Saint Jacques",,,,way
-"Place Saint-Barthélemy",,,,relation
+"Place Saint-Barthélemy",,,,relation+way
 "Place Saint-Christophe",,,,way
 "Place Saint-Étienne",,,,way
-"Place Saint-Lambert",,,,relation
+"Place Saint-Lambert",,,,relation+way
 "Place Saint-Michel",,,,way
 "Place Saint-Nicolas",,,,way
-"Place Saint-Paul",,,,relation
+"Place Saint-Paul",,,,relation+way
 "Place Saint-Pholien",,,,way
 "Place Sainte Marie",,,,relation
 "Place Sainte-Barbe",,,,way
@@ -347,11 +353,11 @@ Lavaniste-Voie,,,,way
 "Place de Meuse",,,,way
 "Place de l'Ourthe",,,,way
 "Place de l'Yser",,,,way
-"Place de la Cathédrale",,,,relation
+"Place de la Cathédrale",,,,relation+way
 "Place de la Libération",,,,way
 "Place de la Liberté",,,,way
 "Place de la République Française",,,,way
-"Place de la Résistance",,,,relation
+"Place de la Résistance",,,,relation+way
 "Place de la Solidarité",,,,way
 "Place de la Vieille-Montagne",,,,way
 "Place de la liberté",,,,way
@@ -380,8 +386,8 @@ Lavaniste-Voie,,,,way
 "Place du Fourchu Fossé",,,,way
 "Place du Général Leman",,,,way
 "Place du Gravier",,,,way
-"Place du Haut-Pré",,,,relation
-"Place du Marché",,,,relation
+"Place du Haut-Pré",,,,relation+way
+"Place du Marché",,,,relation+way
 "Place du Nord",,,,way
 "Place du Parc",,,,way
 "Place du Tilleul",,,,way
@@ -509,7 +515,7 @@ Rodgy-Thier,,,,way
 "Rue Auguste Javaux",,,,way
 "Rue Auguste Ponson",,,,way
 "Rue Aux-Pierres",,,,way
-"Rue Bagolet",,,,relation
+"Rue Bagolet",,,,relation+way
 "Rue Baille-Colleye",,,,way
 "Rue Bailly-Deflandre",,,,way
 "Rue Bairoua",,,,way
@@ -534,7 +540,7 @@ Rodgy-Thier,,,,way
 "Rue Billy",,,,way
 "Rue Bodson",,,,way
 "Rue Boileau",,,,way
-"Rue Bois Gotha",,,,relation
+"Rue Bois Gotha",,,,relation+way
 "Rue Bois Guéau",,,,way
 "Rue Bois Mayette",,,,way
 "Rue Bois Saint-Jean",,,,way
@@ -978,7 +984,7 @@ Rodgy-Thier,,,,way
 "Rue Piedboeuf",,,,way
 "Rue Pierre Curie",,,,way
 "Rue Pierre Molinghen",,,,way
-"Rue Pierreuse",,,,relation
+"Rue Pierreuse",,,,relation+way
 "Rue Pirette",,,,way
 "Rue Pirnay",,,,way
 "Rue Plumier",,,,way
@@ -1412,7 +1418,7 @@ Rodgy-Thier,,,,way
 "Rue des Anciennes Houblonnières",,,,way
 "Rue des Anémones",,,,way
 "Rue des Anges",,,,way
-"Rue des Anglais",,,,relation
+"Rue des Anglais",,,,relation+way
 "Rue des Argilières",,,,way
 "Rue des Armuriers",,,,way
 "Rue des Artisans",,,,way
@@ -1459,7 +1465,7 @@ Rodgy-Thier,,,,way
 "Rue des Cotillages",,,,way
 "Rue des Coudriers",,,,way
 "Rue des Cours",,,,way
-"Rue des Courteaux",,,,relation
+"Rue des Courteaux",,,,relation+way
 "Rue des Crahlis",,,,way
 "Rue des Crâhlis",,,,way
 "Rue des Critchions",,,,way
@@ -1828,7 +1834,7 @@ Rodgy-Thier,,,,way
 "Verte Voie",,,,way
 "Vieille Voie de Bellaire",,,,way
 "Vieille Voie de Tongres",,,,way
-"Vinâve d'Île",,,,relation
+"Vinâve d'Île",,,,relation+way
 "Voie Melotte",,,,way
 "Voie de détresse",,,,way
 "Voie de l'Ardenne",,,,way
