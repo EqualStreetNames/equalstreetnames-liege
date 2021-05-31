@@ -1,4 +1,7 @@
 name,source,gender,wikidata,type
+"Avenue de Lille",wikidata,,Q648,way
+"Pont Atlas",wikidata,,Q2869444,way
+"Rue de Bruxelles",wikidata,,Q239,way
 "Aire de Glain",,,,way
 Al'rodje-Creû,,,,way
 Al'rodje-creu,,,,way
@@ -63,7 +66,6 @@ Al'rodje-creu,,,,way
 "Avenue de Fontainebleau",,,,way
 "Avenue de Jupille",,,,way
 "Avenue de Juprelle",,,,way
-"Avenue de Lille",,,,way
 "Avenue de Nancy",,,,way
 "Avenue de Péville",,,,way
 "Avenue de Voroux",,,,way
@@ -393,7 +395,6 @@ Lavaniste-Voie,,,,way
 "Place gît le Coq",,,,way
 "Plateau du Bouhay",,,,way
 "Pont Albert 1er",,,,way
-"Pont Atlas",,,,way
 "Pont Biais",,,,way
 "Pont Gaston",,,,way
 "Pont Gramme",,,,way
@@ -1174,7 +1175,6 @@ Rodgy-Thier,,,,way
 "Rue de Boncelles",,,,way
 "Rue de Bourgogne",,,,way
 "Rue de Brialmont",,,,way
-"Rue de Bruxelles",,,,way
 "Rue de Burenville",,,,way
 "Rue de Campine",,,,way
 "Rue de Chaudfontaine",,,,way
