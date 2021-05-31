@@ -1,7 +1,4 @@
 name,source,gender,wikidata,type
-"Avenue de Lille",wikidata,,Q648,way
-"Pont Atlas",wikidata,,Q2869444,way
-"Rue de Bruxelles",wikidata,,Q239,way
 "Aire de Glain",,,,way
 Al'rodje-Creû,,,,way
 Al'rodje-creu,,,,way
@@ -66,6 +63,7 @@ Al'rodje-creu,,,,way
 "Avenue de Fontainebleau",,,,way
 "Avenue de Jupille",,,,way
 "Avenue de Juprelle",,,,way
+"Avenue de Lille",,,,way
 "Avenue de Nancy",,,,way
 "Avenue de Péville",,,,way
 "Avenue de Voroux",,,,way
@@ -332,7 +330,6 @@ Lavaniste-Voie,,,,way
 "Place Saint-Barthélemy",,,,relation+way
 "Place Saint-Christophe",,,,way
 "Place Saint-Étienne",,,,way
-"Place Saint-Lambert",,,,relation+way
 "Place Saint-Michel",,,,way
 "Place Saint-Nicolas",,,,way
 "Place Saint-Paul",,,,relation+way
@@ -342,7 +339,6 @@ Lavaniste-Voie,,,,way
 "Place Sainte-Véronique",,,,way
 "Place Sainte-Walburge",,,,way
 "Place Sylvain Dupuis",,,,way
-"Place Théodore Gobert",,,,way
 "Place Théodore-Gobert",,,,way
 "Place Verte",,,,way
 "Place Vivegnis",,,,way
@@ -397,10 +393,10 @@ Lavaniste-Voie,,,,way
 "Place gît le Coq",,,,way
 "Plateau du Bouhay",,,,way
 "Pont Albert 1er",,,,way
+"Pont Atlas",,,,way
 "Pont Biais",,,,way
 "Pont Gaston",,,,way
 "Pont Gramme",,,,way
-"Pont Kennedy",,,,way
 "Pont Maghin",,,,way
 "Pont Marcotty",,,,way
 "Pont Marexhe",,,,way
@@ -576,7 +572,6 @@ Rodgy-Thier,,,,way
 "Rue Charles Gothier",,,,way
 "Rue Charles Horion",,,,way
 "Rue Charles Lejeune",,,,way
-"Rue Charles Magnette",,,,way
 "Rue Charles Morren",,,,way
 "Rue Charles Steenebruggen",,,,way
 "Rue Charles-Davin",,,,way
@@ -1179,6 +1174,7 @@ Rodgy-Thier,,,,way
 "Rue de Boncelles",,,,way
 "Rue de Bourgogne",,,,way
 "Rue de Brialmont",,,,way
+"Rue de Bruxelles",,,,way
 "Rue de Burenville",,,,way
 "Rue de Campine",,,,way
 "Rue de Chaudfontaine",,,,way
