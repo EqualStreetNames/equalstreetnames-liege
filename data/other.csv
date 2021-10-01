@@ -6,6 +6,7 @@ name,source,gender,wikidata,type
 Al'rodje-Creû,,,,way
 Al'rodje-creu,,,,way
 "Allée Albert Puters",,,,way
+"Allée Albert Régibeau",,,,way
 "Allée Bietîmé",,,,way
 "Allée Edgard D'Hont",,,,way
 "Allée Frédéric Chopin",,,,way
@@ -131,6 +132,7 @@ Al'rodje-creu,,,,way
 "Boulevard du 12e de Ligne",,,,way
 "Boulevard du 14e de Ligne",,,,way
 "Boulevard du 2e Lanciers",,,,way
+"Boulevard du 2ème Lanciers",,,,way
 "Boulevard du 3ème Génie",,,,way
 "Boulevard du Rectorat",,,,way
 "Chaussée de Gaulle",,,,way
@@ -159,6 +161,7 @@ Al'rodje-creu,,,,way
 "Chemin de la Lande",,,,way
 "Chemin de la Soquette",,,,way
 "Chemin des Cèdres",,,,way
+"Chemin des Charbonniers",,,,way
 "Chemin des Potagers",,,,way
 "Chemin des Puisatiers",,,,way
 "Chemin des Samares",,,,way
@@ -206,6 +209,7 @@ Chertal,,,,relation
 "Clos du Vélodrome",,,,way
 "Clos du Vert Champs",,,,way
 "Clos du Vieux Bure",,,,way
+"Cour Destockay",,,,way
 "Cour Goffinet",,,,way
 "Cour Hénaux",,,,way
 "Cour Jacquet",,,,way
@@ -361,7 +365,6 @@ Lavaniste-Voie,,,,way
 "Place de la Résistance",,,,relation+way
 "Place de la Solidarité",,,,way
 "Place de la Vieille-Montagne",,,,way
-"Place de la liberté",,,,way
 "Place des Abeilles",,,,way
 "Place des Arzis",,,,way
 "Place des Béguinages",,,,way
@@ -1469,7 +1472,6 @@ Rodgy-Thier,,,,way
 "Rue des Coudriers",,,,way
 "Rue des Cours",,,,way
 "Rue des Courteaux",,,,relation+way
-"Rue des Crahlis",,,,way
 "Rue des Crâhlis",,,,way
 "Rue des Critchions",,,,way
 "Rue des Critchons",,,,way
@@ -1798,6 +1800,7 @@ Rodgy-Thier,,,,way
 "Sentier Matraîfosse",,,,way
 "Sentier de la Bure du Rossignol",,,,way
 "Sentier de liaison",,,,way
+"Sentier des Clématites",,,,way
 "Sentier des Coteaux",,,,way
 "Sentier des Meuniers",,,,way
 "Sentier des Trieuses",,,,way
