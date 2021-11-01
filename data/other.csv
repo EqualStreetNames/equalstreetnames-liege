@@ -131,10 +131,10 @@ Al'rodje-creu,,,,way
 "Boulevard des Hauteurs",,,,way
 "Boulevard du 12e de Ligne",,,,way
 "Boulevard du 14e de Ligne",,,,way
-"Boulevard du 2e Lanciers",,,,way
-"Boulevard du 2ème Lanciers",,,,way
 "Boulevard du 3ème Génie",,,,way
+"Boulevard du Deuxième Lanciers",,,,way
 "Boulevard du Rectorat",,,,way
+"Boulevard du Troisième Génie",,,,way
 "Chaussée de Gaulle",,,,way
 "Chaussée de Tongres",,,,way
 "Chaussée des Prés",,,,way
@@ -167,6 +167,7 @@ Al'rodje-creu,,,,way
 "Chemin des Samares",,,,way
 "Chemin des Soupirs",,,,way
 "Chemin des Trèfles des Prés",,,,way
+"Chemin des Wandjons",,,,way
 "Chemin du Bois",,,,way
 "Chemin du Casino",,,,way
 "Chemin du Facteur",,,,way
@@ -557,8 +558,8 @@ Rodgy-Thier,,,,way
 "Rue Bois-Mangon",,,,way
 "Rue Bois-Saint-Gilles",,,,way
 "Rue Bonne Fortune",,,,way
-"Rue Bonne Nouvelle",,,,way
 "Rue Bonne-Femme",,,,way
+"Rue Bonne-Nouvelle",,,,way
 "Rue Bontemps",,,,way
 "Rue Bossy",,,,way
 "Rue Bourdon",,,,way
@@ -1395,7 +1396,6 @@ Rodgy-Thier,,,,way
 "Rue de la Révision",,,,way
 "Rue de la Rose",,,,way
 "Rue de la Sablonière",,,,way
-"Rue de la Sarte",,,,way
 "Rue de la Scierie",,,,way
 "Rue de la Scorre",,,,way
 "Rue de la Sèche",,,,way
@@ -1630,7 +1630,6 @@ Rodgy-Thier,,,,way
 "Rue des steppes",,,,way
 "Rue des wallons",,,,way
 "Rue du Bâneux",,,,way
-"Rue du Banneux",,,,way
 "Rue du Baron",,,,way
 "Rue du Bassin",,,,way
 "Rue du Bastion",,,,way
@@ -1851,5 +1850,7 @@ Rodgy-Thier,,,,way
 "Voye des Cotch'Tresses",,,,way
 "Vôye des treûs Bouhons",,,,way
 "Waide des Dames",,,,way
+"Zone de manoeuvre Rue  du Général Modard",,,,way
 "chemin du Champ des Oiseaux",,,,way
+"rue Hocheporte",,,,way
 "rue du Stalon",,,,relation
