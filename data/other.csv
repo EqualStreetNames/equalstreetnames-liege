@@ -226,8 +226,10 @@ Chertal,,,,relation
 "Cour des Minimes",,,,way
 "Cour du Rivage",,,,way
 "Degré des Artisans",,,,way
+"Degrés Izoard",,,,way
 "Degrés Saint-Pierre",,,,way
 "Degrès des Dentellières",,,,way
+"Degrés des Jésuites Anglais",,,,way
 "Degrés des Tisserands",,,,way
 "Drève de Fayen",,,,way
 "Drève des Aulnes",,,,way
@@ -276,6 +278,7 @@ GR57,,,,way
 "Impasse des Ursulines",,,,way
 "Impasse du Chéra",,,,way
 "Impasse du Gué",,,,way
+"Inaccessible si champ emblavé",,,,way
 "Jardin Emile Vandervelde",,,,way
 "Jardin de l'abbé Firket",,,,way
 Jonruelle,,,,way
@@ -305,7 +308,6 @@ Lavaniste-Voie,,,,way
 "Passerelle Léon Tchiniss",,,,way
 "Passerelle Mativa",,,,way
 "Passerelle Saucy",,,,way
-"Passerelle Vivegnis",,,,way
 "Passerelle de la Principauté de Liège",,,,way
 "Pazé del Vingne des Beddines",,,,way
 "Place André Renard",,,,way
@@ -703,6 +705,7 @@ Rodgy-Thier,,,,way
 "Rue Fond Crahay",,,,way
 "Rue Fond Pirette",,,,way
 "Rue Fond Saint-Servais",,,,way
+"Rue Fond de Lys",,,,way
 "Rue Fond des Tawes",,,,way
 "Rue Fond du Bois",,,,way
 "Rue Fond du Chat",,,,way
@@ -1148,6 +1151,7 @@ Rodgy-Thier,,,,way
 "Rue Vivegnis",,,,way
 "Rue Vivi Potale",,,,way
 "Rue Vivihouet",,,,way
+"Rue Voie des Près",,,,way
 "Rue Voie des Prés",,,,way
 "Rue Volière",,,,way
 "Rue Wacheray",,,,way
