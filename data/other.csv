@@ -102,6 +102,7 @@ Al'rodje-creu,,,,way
 "Avenue du Petit-Bourgogne",,,,way
 "Avenue du Pré-Aily",,,,way
 "Avenue du Tennis",,,,way
+"Avenue du Théatre-de-Verdure",,,,way
 "Boulevard Carton de Wiart",,,,way
 "Boulevard César Thomson",,,,way
 "Boulevard Emile de Laveleye",,,,way
@@ -218,6 +219,8 @@ Chertal,,,,relation
 "Cour Laurant",,,,way
 "Cour Moreau",,,,way
 "Cour Poupier",,,,way
+"Cour Ralet",,,,way
+"Cour Roland",,,,way
 "Cour Saint-Antoine",,,,way
 "Cour Saint-Gilles",,,,way
 "Cour Sarton",,,,way
@@ -897,6 +900,7 @@ Rodgy-Thier,,,,way
 "Rue Laport",,,,way
 "Rue Large",,,,way
 "Rue Lassaux",,,,way
+"Rue Latour",,,,way
 "Rue Laurent de Koninck",,,,way
 "Rue Lebeau",,,,way
 "Rue Lejeune",,,,way
@@ -931,7 +935,6 @@ Rodgy-Thier,,,,way
 "Rue Maghin",,,,way
 "Rue Malvaux",,,,way
 "Rue Mandeville",,,,way
-"Rue Marcel Remy",,,,way
 "Rue Marcel Thiry",,,,way
 "Rue Marcel-Remy",,,,way
 "Rue Marçon",,,,way
@@ -1188,7 +1191,6 @@ Rodgy-Thier,,,,way
 "Rue d'Italie",,,,way
 "Rue d'Omalius",,,,way
 "Rue d'Ougrée",,,,way
-"Rue de Belle-Île",,,,way
 "Rue de Belle-île",,,,way
 "Rue de Berghes",,,,way
 "Rue de Berloz",,,,way
@@ -1227,7 +1229,6 @@ Rodgy-Thier,,,,way
 "Rue de Kinkempois",,,,way
 "Rue de L'enclos",,,,way
 "Rue de Lantin",,,,way
-"Rue de Latour",,,,way
 "Rue de Liège",,,,way
 "Rue de Londres",,,,way
 "Rue de Magdebourg",,,,way
@@ -1533,7 +1534,6 @@ Rodgy-Thier,,,,way
 "Rue des Heids",,,,way
 "Rue des Héros",,,,way
 "Rue des Hiercheuses",,,,way
-"Rue des Hiercheuses+",,,,way
 "Rue des Hirondelles",,,,way
 "Rue des Homes",,,,way
 "Rue des Hotteuses",,,,way
@@ -1598,7 +1598,6 @@ Rodgy-Thier,,,,way
 "Rue des Pontons",,,,way
 "Rue des Porteuses d'Eau",,,,way
 "Rue des Prairies",,,,way
-"Rue des Prebendiers",,,,way
 "Rue des Prébendiers",,,,way
 "Rue des Prémontrés",,,,way
 "Rue des Prés",,,,way
@@ -1668,6 +1667,7 @@ Rodgy-Thier,,,,way
 "Rue du Centre Spatial",,,,way
 "Rue du Champay",,,,way
 "Rue du Champion",,,,way
+"Rue du Champs d'Aviation",,,,way
 "Rue du Charbonnage",,,,way
 "Rue du Châtaignier",,,,way
 "Rue du Château",,,,way
@@ -1696,7 +1696,7 @@ Rodgy-Thier,,,,way
 "Rue du Fort de Pontisse",,,,way
 "Rue du Fourchufossé",,,,way
 "Rue du Fourneau",,,,way
-"Rue du Gai Logi",,,,way
+"Rue du Gai Logis",,,,way
 "Rue du Gay Village",,,,way
 "Rue du Général Bertrand",,,,way
 "Rue du Général Charles Collyns",,,,way
