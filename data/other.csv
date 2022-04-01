@@ -560,13 +560,12 @@ Rodgy-Thier,,,,way
 "Rue Bois Gotha",,,,relation+way
 "Rue Bois Guéau",,,,way
 "Rue Bois Mayette",,,,way
-"Rue Bois Saint-Jean",,,,way
+"Rue Bois Saint-Gilles",,,,way
 "Rue Bois d'Avroy",,,,way
 "Rue Bois de Sclessin",,,,way
 "Rue Bois l'Évêque",,,,way
 "Rue Bois-Chainoit",,,,way
 "Rue Bois-Mangon",,,,way
-"Rue Bois-Saint-Gilles",,,,way
 "Rue Bonne Fortune",,,,way
 "Rue Bonne-Femme",,,,way
 "Rue Bonne-Nouvelle",,,,way
@@ -702,6 +701,7 @@ Rodgy-Thier,,,,way
 "Rue Fernand Dehousse",,,,way
 "Rue Fernand Heuveneers",,,,way
 "Rue Fernand Tilkin",,,,way
+"Rue Fernande Coulon",,,,way
 "Rue Firquet",,,,way
 "Rue Fisen",,,,way
 "Rue Floréal",,,,way
@@ -1049,7 +1049,6 @@ Rodgy-Thier,,,,way
 "Rue Rouleau",,,,way
 "Rue Rouveroy",,,,way
 "Rue Rutxhiel",,,,way
-"Rue Saint Laurent",,,,way
 "Rue Saint Paul",,,,way
 "Rue Saint-Adalbert",,,,way
 "Rue Saint-Barthélemy",,,,way
@@ -1094,7 +1093,6 @@ Rodgy-Thier,,,,way
 "Rue Schlemmer",,,,way
 "Rue Schmerling",,,,way
 "Rue Sébastien Laruelle",,,,way
-"Rue Sergent Merx",,,,way
 "Rue Serrurier-Bovy",,,,way
 "Rue Servais Malaise",,,,relation
 "Rue Simon Burnet",,,,way
@@ -1191,6 +1189,7 @@ Rodgy-Thier,,,,way
 "Rue d'Italie",,,,way
 "Rue d'Omalius",,,,way
 "Rue d'Ougrée",,,,way
+"Rue de Belle-Île",,,,way
 "Rue de Belle-île",,,,way
 "Rue de Berghes",,,,way
 "Rue de Berloz",,,,way
@@ -1343,6 +1342,7 @@ Rodgy-Thier,,,,way
 "Rue de la Casquette",,,,way
 "Rue de la Cathédrale",,,,way
 "Rue de la Cense Rouge",,,,way
+"Rue de la Cense Rouge - Rue dèl Rodje Cinse",,,,way
 "Rue de la Centrale",,,,way
 "Rue de la Chaîne",,,,way
 "Rue de la Chapelle",,,,way
@@ -1371,7 +1371,7 @@ Rodgy-Thier,,,,way
 "Rue de la Halle",,,,way
 "Rue de la Haminde",,,,way
 "Rue de la Haye",,,,way
-"Rue de la Houillière",,,,way
+"Rue de la Houillère",,,,way
 "Rue de la Jonchaie",,,,way
 "Rue de la Justice",,,,way
 "Rue de la Lèche",,,,way
@@ -1426,6 +1426,7 @@ Rodgy-Thier,,,,way
 "Rue de la Vielle Montagne",,,,way
 "Rue de la Violette",,,,way
 "Rue de la Wache",,,,way
+"Rue dèl Rodje Cinse",,,,way
 "Rue des Abeilles",,,,way
 "Rue des Acacias",,,,way
 "Rue des Aguesses",,,,way
@@ -1523,7 +1524,6 @@ Rodgy-Thier,,,,way
 "Rue des Genêts",,,,way
 "Rue des Glacis",,,,way
 "Rue des Godets",,,,way
-"Rue des Grands Champs",,,,way
 "Rue des Grands Prés",,,,way
 "Rue des Grands-Champs",,,,way
 "Rue des Gravillons",,,,way
@@ -1649,10 +1649,11 @@ Rodgy-Thier,,,,way
 "Rue du Beau-Mur",,,,way
 "Rue du Beau-Site",,,,way
 "Rue du Béchuron",,,,way
-"Rue du Bel Horizon",,,,way
+"Rue du Bel-Horizon",,,,way
 "Rue du Bénélux",,,,way
 "Rue du Biez",,,,way
 "Rue du Bois La Dame",,,,way
+"Rue du Bois Saint-Jean",,,,way
 "Rue du Bois Sauvage",,,,way
 "Rue du Bois-Joli",,,,way
 "Rue du Boisselier",,,,way
@@ -1767,6 +1768,7 @@ Rodgy-Thier,,,,way
 "Rue du Sart Tilman",,,,way
 "Rue du Sart-Lohé",,,,way
 "Rue du Sart-Moray",,,,way
+"Rue du Sergent Merx",,,,way
 "Rue du Snapeux",,,,way
 "Rue du Stade",,,,way
 "Rue du Taillis",,,,way
@@ -1792,6 +1794,7 @@ Rodgy-Thier,,,,way
 "Rue fond houleux",,,,way
 "Rue sous l'Eau",,,,way
 "Rue sous la Tour",,,,way
+"Rue sur l'Ile",,,,way
 "Rue sur la Fontaine",,,,way
 "Rue sur les Foulons",,,,way
 "Rue sur les Pleins",,,,way
@@ -1805,6 +1808,7 @@ Rodgy-Thier,,,,way
 "Ruelle des Chats",,,,way
 "Ruelle des Myosotis - Rue d'Awans",,,,way
 "Ruelle du Tramway",,,,way
+"Rus Oscar Flesch",,,,way
 "Sart aux Fraises",,,,way
 "Sentier Lavoir",,,,way
 "Sentier Matraîfosse",,,,way
@@ -1862,7 +1866,7 @@ Rodgy-Thier,,,,way
 "Voye des Cotch'Tresses",,,,way
 "Vôye des treûs Bouhons",,,,way
 "Waide des Dames",,,,way
-"Zone de manoeuvre Rue du Général Modard",,,,way
+"Zone de manoeuvre Rue  du Général Modard",,,,way
 "chemin du Champ des Oiseaux",,,,way
 "rue Hocheporte",,,,way
 "rue du Stalon",,,,relation
