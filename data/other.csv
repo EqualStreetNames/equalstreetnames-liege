@@ -175,7 +175,6 @@ Al'rodje-creu,,,,way
 "Chemin du Facteur",,,,way
 "Chemin du Tilleul",,,,way
 "Chemin du Trèfle",,,,way
-"Chemin n° 13",,,,way
 "Chemin n° 3",,,,way
 "Chemin n° 30",,,,way
 "Chemin vicinal n°30",,,,way
@@ -498,6 +497,7 @@ Rodgy-Thier,,,,way
 "Route de Boncelles",,,,way
 "Route de Légipont",,,,way
 "Route de Légipont - Rue Chefneux",,,,way
+"Route de Montabay",,,,way
 "Route du Condroz",,,,way
 "Rue ""Sans Nom""",,,,way
 "Rue Achille Lebeau",,,,way
@@ -1131,6 +1131,7 @@ Rodgy-Thier,,,,way
 "Rue Triolet",,,,way
 "Rue Trou Louette",,,,way
 "Rue Trou Souris",,,,way
+"Rue Vaherlisse",,,,way
 "Rue Valdor",,,,way
 "Rue Valère Hénault",,,,way
 "Rue Valkenberg",,,,way
@@ -1727,7 +1728,7 @@ Rodgy-Thier,,,,way
 "Rue du Méry",,,,way
 "Rue du Moulin",,,,way
 "Rue du Mouton Blanc",,,,way
-"Rue du Mûrler",,,,way
+"Rue du Mûrier",,,,way
 "Rue du Nord-Belge",,,,way
 "Rue du Palais",,,,way
 "Rue du Panorama",,,,way
@@ -1798,7 +1799,6 @@ Rodgy-Thier,,,,way
 "Rue sur la Fontaine",,,,way
 "Rue sur les Foulons",,,,way
 "Rue sur les Pleins",,,,way
-"Rue vaherlisse",,,,way
 "Ruelle Falihe",,,,way
 "Ruelle Hierby",,,,way
 "Ruelle Paradis",,,,way
