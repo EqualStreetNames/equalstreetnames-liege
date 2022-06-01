@@ -16,6 +16,7 @@ Al'rodje-creu,,,,way
 "Allée de l'Absent",,,,way
 "Allée de l'Innovation",,,,way
 "Allée de la Cense Rouge",,,,way
+"Allée de la Cense Rouge - Rue dèl Rodje Cinse",,,,way
 "Allée de la Découverte",,,,way
 "Allée de la Physique",,,,way
 "Allée des Abbesses",,,,way
@@ -57,6 +58,7 @@ Al'rodje-creu,,,,way
 "Avenue Joseph Prévers",,,,way
 "Avenue Maurice Destenay",,,,way
 "Avenue Olympe Gilbart",,,,way
+"Avenue Pré-Aily",,,,way
 "Avenue Reine Élisabeth",,,,way
 "Avenue Rogier",,,,way
 "Avenue Sluysmans",,,,way
@@ -100,9 +102,8 @@ Al'rodje-creu,,,,way
 "Avenue du Luxembourg",,,,way
 "Avenue du Parc",,,,way
 "Avenue du Petit-Bourgogne",,,,way
-"Avenue du Pré-Aily",,,,way
 "Avenue du Tennis",,,,way
-"Avenue du Théatre-de-Verdure",,,,way
+"Avenue du Théâtre de Verdure",,,,way
 "Boulevard Carton de Wiart",,,,way
 "Boulevard César Thomson",,,,way
 "Boulevard Emile de Laveleye",,,,way
@@ -234,6 +235,7 @@ Chertal,,,,relation
 "Degrès des Dentellières",,,,way
 "Degrés des Jésuites Anglais",,,,way
 "Degrés des Tisserands",,,,way
+"Devant l'Aîte",,,,way
 "Drève de Fayen",,,,way
 "Drève des Aulnes",,,,way
 "Drève du Château",,,,way
@@ -273,6 +275,7 @@ GR57,,,,way
 "Impasse Magnée",,,,way
 "Impasse Pissaine",,,,way
 "Impasse Simonis",,,,way
+"Impasse Thiernesse",,,,way
 "Impasse d'Elmer",,,,way
 "Impasse de Vottem",,,,way
 "Impasse de l'Avenir",,,,way
@@ -524,12 +527,13 @@ Rodgy-Thier,,,,way
 "Rue Armand Michaux",,,,way
 "Rue Armand Rassenfosse",,,,way
 "Rue Armand Stouls",,,,way
-"Rue Artus-bris",,,,way
+"Rue Artus-Bris",,,,way
 "Rue Auguste Buisseret",,,,way
 "Rue Auguste Donnay",,,,way
 "Rue Auguste Doutrepont",,,,way
 "Rue Auguste Hock",,,,way
 "Rue Auguste Javaux",,,,way
+"Rue Auguste Joiret",,,,way
 "Rue Auguste Ponson",,,,way
 "Rue Aux-Pierres",,,,way
 "Rue Bagolet",,,,relation+way
@@ -603,7 +607,6 @@ Rodgy-Thier,,,,way
 "Rue Chevaufosse",,,,way
 "Rue Chevy",,,,way
 "Rue Chiff d'Or",,,,way
-"Rue Cité des Mineurs",,,,way
 "Rue Claude Strebelle",,,,way
 "Rue Coclers",,,,way
 "Rue Coclisart",,,,way
@@ -646,7 +649,6 @@ Rodgy-Thier,,,,way
 "Rue Désiré - Simonis",,,,way
 "Rue Dessus l'Église",,,,way
 "Rue Destriveaux",,,,way
-"Rue Devant l'Aîte",,,,way
 "Rue Devant les Écoliers",,,,way
 "Rue Deveux",,,,way
 "Rue Dieudonné Defrance",,,,way
@@ -673,7 +675,6 @@ Rodgy-Thier,,,,way
 "Rue Émile Vandervelde",,,,way
 "Rue Emile Vandervelde - Rue Sainte-Marguerite",,,,way
 "Rue Émile Verhaeren",,,,way
-"Rue Émile Zola",,,,way
 "Rue En-Glain",,,,way
 "Rue Éracle",,,,way
 "Rue Ernest Malvoz",,,,way
@@ -692,8 +693,8 @@ Rodgy-Thier,,,,way
 "Rue Fassin",,,,way
 "Rue Fauville",,,,way
 "Rue Félix Chaumont",,,,way
-"Rue Felix Paulsen",,,,way
 "Rue Félix Vandersnoeck",,,,way
+"Rue Félix-Paulsen",,,,way
 "Rue Ferdinand Borny",,,,way
 "Rue Ferdinand Desoer",,,,way
 "Rue Ferdinand Nicolay",,,,way
@@ -752,9 +753,9 @@ Rodgy-Thier,,,,way
 "Rue Gérardrie",,,,way
 "Rue Germinal",,,,way
 "Rue Gilbert Bisqueret",,,,way
-"Rue Gilleaux",,,,way
 "Rue Gilles Demarteau",,,,way
 "Rue Gilles Galler",,,,way
+"Rue Gillieaux",,,,way
 "Rue Gilon",,,,way
 "Rue Git-le-Coq",,,,way
 "Rue Godefroid Halleux",,,,way
@@ -1015,7 +1016,7 @@ Rodgy-Thier,,,,way
 "Rue Porte Grumsel",,,,way
 "Rue Porte-aux-Oies",,,,way
 "Rue Pouplin",,,,way
-"Rue Pre Cala",,,,way
+"Rue Pré Cala",,,,way
 "Rue Pré du Cygne",,,,way
 "Rue Priessevoye",,,,way
 "Rue Prince-de-Liège",,,,way
@@ -1206,7 +1207,6 @@ Rodgy-Thier,,,,way
 "Rue de Chênée",,,,way
 "Rue de Chestret",,,,way
 "Rue de Chèvremont",,,,way
-"Rue de Clerembault",,,,way
 "Rue de Cornillon",,,,way
 "Rue de Cracovie",,,,way
 "Rue de Droixhe",,,,way
@@ -1342,8 +1342,6 @@ Rodgy-Thier,,,,way
 "Rue de la Canonnerie",,,,way
 "Rue de la Casquette",,,,way
 "Rue de la Cathédrale",,,,way
-"Rue de la Cense Rouge",,,,way
-"Rue de la Cense Rouge - Rue dèl Rodje Cinse",,,,way
 "Rue de la Centrale",,,,way
 "Rue de la Chaîne",,,,way
 "Rue de la Chapelle",,,,way
@@ -1408,7 +1406,7 @@ Rodgy-Thier,,,,way
 "Rue de la Résistance",,,,way
 "Rue de la Révision",,,,way
 "Rue de la Rose",,,,way
-"Rue de la Sablonière",,,,way
+"Rue de la Sablonnière",,,,way
 "Rue de la Scierie",,,,way
 "Rue de la Scorre",,,,way
 "Rue de la Sèche",,,,way
@@ -1427,6 +1425,7 @@ Rodgy-Thier,,,,way
 "Rue de la Vielle Montagne",,,,way
 "Rue de la Violette",,,,way
 "Rue de la Wache",,,,way
+"Rue de-Clérembault",,,,way
 "Rue dèl Rodje Cinse",,,,way
 "Rue des Abeilles",,,,way
 "Rue des Acacias",,,,way
@@ -1520,7 +1519,7 @@ Rodgy-Thier,,,,way
 "Rue des Franchimontois",,,,way
 "Rue des Frères Philipart",,,,way
 "Rue des Fusillés",,,,way
-"Rue des Gardes-Frontieres",,,,way
+"Rue des Gardes-Frontière",,,,way
 "Rue des Geais",,,,way
 "Rue des Genêts",,,,way
 "Rue des Glacis",,,,way
@@ -1779,7 +1778,7 @@ Rodgy-Thier,,,,way
 "Rue du Tombay",,,,way
 "Rue du Travail",,,,way
 "Rue du Trixhay",,,,way
-"Rue du Val Benoit",,,,way
+"Rue du Val-Benoît",,,,way
 "Rue du Vallon",,,,way
 "Rue du Ventilateur",,,,way
 "Rue du Vertbois",,,,way
@@ -1824,6 +1823,7 @@ Rodgy-Thier,,,,way
 "Sentier du Château",,,,way
 "Sentier du Haut-Pré",,,,way
 "Sentier du Moulin",,,,way
+"Sentier du Pairoux",,,,way
 "Sentier du Pré Fleuri",,,,way
 "Sentier du Pré des Monts",,,,way
 "Sentier du Terris",,,,way
