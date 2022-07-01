@@ -3,8 +3,7 @@ name,source,gender,wikidata,type
 "Pont Atlas",wikidata,,Q2869444,way
 "Rue de Bruxelles",wikidata,,Q239,way
 "Aire de Glain",,,,way
-Al'rodje-Creû,,,,way
-Al'rodje-creu,,,,way
+"Al'Rodje Creû",,,,way
 "Allée Albert Puters",,,,way
 "Allée Albert Régibeau",,,,way
 "Allée Bietîmé",,,,way
@@ -83,13 +82,13 @@ Al'rodje-creu,,,,way
 "Avenue de la Closeraie",,,,way
 "Avenue de la Cokerie",,,,way
 "Avenue de la Croix Rouge",,,,way
-"Avenue de la Grande Rôtisse",,,,way
+"Avenue de la Grande Rotisse",,,,way
 "Avenue de la Laiterie",,,,way
 "Avenue de la Paix",,,,way
 "Avenue de la Rousselière",,,,way
 "Avenue des Cerfs",,,,way
 "Avenue des Cerisiers",,,,way
-"Avenue des Côteaux",,,,way
+"Avenue des Coteaux",,,,way
 "Avenue des Croix du Feu",,,,way
 "Avenue des Lilas",,,,way
 "Avenue des Oiseaux",,,,way
@@ -106,6 +105,7 @@ Al'rodje-creu,,,,way
 "Avenue du Théâtre de Verdure",,,,way
 "Boulevard Carton de Wiart",,,,way
 "Boulevard César Thomson",,,,way
+"Boulevard Cuivre et Zinc",,,,way
 "Boulevard Emile de Laveleye",,,,way
 "Boulevard Ernest Solvay",,,,way
 "Boulevard Fosse-Crahay",,,,way
@@ -170,7 +170,6 @@ Al'rodje-creu,,,,way
 "Chemin des Samares",,,,way
 "Chemin des Soupirs",,,,way
 "Chemin des Trèfles des Prés",,,,way
-"Chemin des Wandjons",,,,way
 "Chemin du Bois",,,,way
 "Chemin du Casino",,,,way
 "Chemin du Facteur",,,,way
@@ -180,13 +179,14 @@ Al'rodje-creu,,,,way
 "Chemin n° 30",,,,way
 "Chemin vicinal n°30",,,,way
 Chertal,,,,relation
+"Cité André Renard",,,,way
 "Cité Gérard Cloes",,,,way
-"Cité Renard",,,,way
 "Cité Théwis",,,,way
+"Cité des Démineurs",,,,way
 "Cité des Mineurs",,,,way
 "Cité des Thiers",,,,way
 "Cité du Moulin",,,,way
-"Clos Anne De Chantraine",,,,way
+"Clos Anne de Chantraine",,,,way
 "Clos Chanmurly",,,,way
 "Clos Fanny Thibout",,,,way
 "Clos Fleuri",,,,way
@@ -212,6 +212,7 @@ Chertal,,,,relation
 "Clos du Vélodrome",,,,way
 "Clos du Vert Champs",,,,way
 "Clos du Vieux Bure",,,,way
+Coclisart,,,,way
 "Cour Destockay",,,,way
 "Cour Goffinet",,,,way
 "Cour Hénaux",,,,way
@@ -224,7 +225,6 @@ Chertal,,,,relation
 "Cour Saint-Antoine",,,,way
 "Cour Saint-Gilles",,,,way
 "Cour Sarton",,,,way
-"Cour Soleil",,,,way
 "Cour Tassin",,,,way
 "Cour des Mineurs",,,,way
 "Cour des Minimes",,,,way
@@ -265,9 +265,10 @@ GR57,,,,way
 "Impasse Croctay",,,,way
 "Impasse Defize",,,,way
 "Impasse Derousseau",,,,way
-"Impasse Gemay",,,,way
 "Impasse Gérard",,,,way
+"Impasse Germay",,,,way
 "Impasse Guillaume",,,,way
+"Impasse Henvard",,,,way
 "Impasse Horion",,,,way
 "Impasse Hubert Goffin",,,,way
 "Impasse Jonckeu",,,,way
@@ -307,6 +308,7 @@ Lavaniste-Voie,,,,way
 "Passage Chaudoir",,,,way
 "Passage Jupe-en-Haut",,,,way
 "Passage Lemonnier",,,,way
+"Passage Servais Houvelez",,,,way
 "Passage des Glaneuses",,,,way
 "Passage du Château d'eau",,,,way
 "Passage du Laitier",,,,way
@@ -332,6 +334,7 @@ Lavaniste-Voie,,,,way
 "Place Gabriel",,,,way
 "Place Georges Ista",,,,way
 "Place Gilles Étienne",,,,way
+"Place Gît-le-Coq",,,,way
 "Place Hector Denis",,,,way
 "Place Henri Simon",,,,way
 "Place Henriette Brenu",,,,way
@@ -342,6 +345,7 @@ Lavaniste-Voie,,,,way
 "Place Joseph Dejardin",,,,way
 "Place Joseph Willem",,,,way
 "Place Jules Seeliger",,,,way
+"Place Mathieu Bodson",,,,way
 "Place Nicolas Bernimolin",,,,way
 "Place Notger",,,,way
 "Place Pierre Clerdent",,,,relation
@@ -362,6 +366,7 @@ Lavaniste-Voie,,,,way
 "Place Théodore-Gobert",,,,way
 "Place Verte",,,,way
 "Place Vivegnis",,,,way
+"Place Wérihet",,,,way
 "Place Xavier Neujean",,,,way
 "Place d'Elmer",,,,way
 "Place d'Italie",,,,way
@@ -408,9 +413,7 @@ Lavaniste-Voie,,,,way
 "Place du Parc",,,,way
 "Place du Tilleul",,,,way
 "Place du Vieux-Puits",,,,way
-"Place du Wérihet",,,,way
 "Place du XX Août",,,,way
-"Place gît le Coq",,,,way
 "Plateau du Bouhay",,,,way
 "Pont Albert 1er",,,,way
 "Pont Biais",,,,way
@@ -429,7 +432,6 @@ Lavaniste-Voie,,,,way
 "Pont de Huy",,,,way
 "Pont de Longdoz",,,,way
 "Pont de Milsaucy",,,,way
-"Pont de Namur",,,,way
 "Pont des Arches",,,,way
 "Pont des Bayards",,,,way
 "Pont des Bruyères",,,,way
@@ -503,6 +505,7 @@ Rodgy-Thier,,,,way
 "Route de Montabay",,,,way
 "Route du Condroz",,,,way
 "Rue ""Sans Nom""",,,,way
+"Rue A Matche",,,,way
 "Rue Achille Lebeau",,,,way
 "Rue Adèlaïde Coudère",,,,way
 "Rue Adelin et Jules Husson",,,,way
@@ -516,7 +519,7 @@ Rodgy-Thier,,,,way
 "Rue Albert de Cuyck",,,,way
 "Rue Alex Bouvy",,,,way
 "Rue Alfred Magis",,,,way
-"Rue Alfred van beneden",,,,way
+"Rue Alfred Van Beneden",,,,way
 "Rue Alphonse Tilkin",,,,way
 "Rue Ambiorix",,,,way
 "Rue André Delchef",,,,way
@@ -568,6 +571,7 @@ Rodgy-Thier,,,,way
 "Rue Bois d'Avroy",,,,way
 "Rue Bois de Sclessin",,,,way
 "Rue Bois l'Évêque",,,,way
+"Rue Bois la Dame",,,,way
 "Rue Bois-Chainoit",,,,way
 "Rue Bois-Mangon",,,,way
 "Rue Bonne Fortune",,,,way
@@ -585,11 +589,12 @@ Rodgy-Thier,,,,way
 "Rue Capitaine",,,,way
 "Rue Cardinal Cardijn",,,,way
 "Rue Carlier",,,,way
-"Rue Celestin Demblon",,,,way
+"Rue Célestin Demblon",,,,way
 "Rue César Franck",,,,way
 "Rue César de Paepe",,,,way
 "Rue Chaffette",,,,way
 "Rue Chafnay",,,,way
+"Rue Champs des Manoeuvres",,,,way
 "Rue Chapeauville",,,,way
 "Rue Chapelle-des-Clercs",,,,way
 "Rue Charlemagne",,,,way
@@ -609,7 +614,6 @@ Rodgy-Thier,,,,way
 "Rue Chiff d'Or",,,,way
 "Rue Claude Strebelle",,,,way
 "Rue Coclers",,,,way
-"Rue Coclisart",,,,way
 "Rue Collée",,,,way
 "Rue Colompré",,,,way
 "Rue Comhaire",,,,way
@@ -633,7 +637,6 @@ Rodgy-Thier,,,,way
 "Rue Dassonville",,,,way
 "Rue Daussoigne-Méhul",,,,way
 "Rue David",,,,way
-"Rue De La Distillerie",,,,way
 "Rue Defrance",,,,way
 "Rue Defrêcheux",,,,way
 "Rue Dehin",,,,way
@@ -646,7 +649,7 @@ Rodgy-Thier,,,,way
 "Rue Derrière Coronmeuse",,,,way
 "Rue Derrière le Chateau",,,,way
 "Rue Descardre",,,,way
-"Rue Désiré - Simonis",,,,way
+"Rue Désiré Simonis",,,,way
 "Rue Dessus l'Église",,,,way
 "Rue Destriveaux",,,,way
 "Rue Devant les Écoliers",,,,way
@@ -701,7 +704,7 @@ Rodgy-Thier,,,,way
 "Rue Ferdinand-Hénaux",,,,way
 "Rue Fernand Dehousse",,,,way
 "Rue Fernand Heuveneers",,,,way
-"Rue Fernand Tilkin",,,,way
+"Rue Fernand Tilquin",,,,way
 "Rue Fernande Coulon",,,,way
 "Rue Firquet",,,,way
 "Rue Fisen",,,,way
@@ -709,6 +712,7 @@ Rodgy-Thier,,,,way
 "Rue Florimont",,,,way
 "Rue Foidart",,,,way
 "Rue Fond Crahay",,,,way
+"Rue Fond Houlleux",,,,way
 "Rue Fond Pirette",,,,way
 "Rue Fond Saint-Servais",,,,way
 "Rue Fond de Lys",,,,way
@@ -757,7 +761,7 @@ Rodgy-Thier,,,,way
 "Rue Gilles Galler",,,,way
 "Rue Gillieaux",,,,way
 "Rue Gilon",,,,way
-"Rue Git-le-Coq",,,,way
+"Rue Gît-le-Coq",,,,way
 "Rue Godefroid Halleux",,,,way
 "Rue Goswin",,,,way
 "Rue Gramme",,,,way
@@ -814,8 +818,7 @@ Rodgy-Thier,,,,way
 "Rue Hubert Goffin",,,,way
 "Rue Hullos",,,,way
 "Rue Isi Collin",,,,way
-"Rue J.F. Kennedy",,,,way
-"Rue Jackie Jansens",,,,way
+"Rue Jackie Jansen",,,,way
 "Rue Jacob Makoy",,,,way
 "Rue Jacques Brel",,,,way
 "Rue Jacques Lemaire",,,,way
@@ -823,6 +826,7 @@ Rodgy-Thier,,,,way
 "Rue Jambe de Bois",,,,way
 "Rue Jamin Saint-Roch",,,,way
 "Rue Jean Allard",,,,way
+"Rue Jean Bosly",,,,way
 "Rue Jean Bury",,,,way
 "Rue Jean Delvoye",,,,way
 "Rue Jean Dister",,,,way
@@ -842,7 +846,6 @@ Rodgy-Thier,,,,way
 "Rue Jean d'Outremeuse",,,,way
 "Rue Jean-Baptiste Cools",,,,way
 "Rue Jean-Baptiste Juppin",,,,way
-"Rue Jean-Bosly",,,,way
 "Rue Jean-Etienne",,,,way
 "Rue Jean-Mathieu Nisen",,,,way
 "Rue Jeanne Renotte",,,,way
@@ -997,7 +1000,7 @@ Rodgy-Thier,,,,way
 "Rue Paul-Joseph Carpay",,,,way
 "Rue Paul-Joseph Delcloche",,,,way
 "Rue Péclers",,,,way
-"Rue Pépin-le-bref",,,,way
+"Rue Pépin-le-Bref",,,,way
 "Rue Pétry",,,,way
 "Rue Pied Pont des Arches",,,,way
 "Rue Pied du Thier à Liège",,,,way
@@ -1018,6 +1021,7 @@ Rodgy-Thier,,,,way
 "Rue Pouplin",,,,way
 "Rue Pré Cala",,,,way
 "Rue Pré du Cygne",,,,way
+"Rue Pré-Binet",,,,way
 "Rue Priessevoye",,,,way
 "Rue Prince-de-Liège",,,,way
 "Rue Principale",,,,way
@@ -1077,7 +1081,6 @@ Rodgy-Thier,,,,way
 "Rue Saint-Séverin",,,,way
 "Rue Saint-Thomas",,,,way
 "Rue Saint-Vincent",,,,way
-"Rue Sainte Anne",,,,way
 "Rue Sainte Marie",,,,way
 "Rue Sainte Véronique",,,,way
 "Rue Sainte-Aldegonde",,,,way
@@ -1104,6 +1107,7 @@ Rodgy-Thier,,,,way
 "Rue Sohet",,,,way
 "Rue Sopers",,,,way
 "Rue Soubre",,,,way
+"Rue Sous la Tour",,,,way
 "Rue Sous le Bois",,,,way
 "Rue Sous les Vignes",,,,way
 "Rue Souverain Pont",,,,way
@@ -1111,6 +1115,8 @@ Rodgy-Thier,,,,way
 "Rue Stappers",,,,way
 "Rue Stephany",,,,way
 "Rue Strailhe",,,,way
+"Rue Sur les Pleins",,,,way
+"Rue Sur-les-Moulins",,,,way
 "Rue Surlet",,,,way
 "Rue Sylvestre",,,,way
 "Rue Tanixhe",,,,way
@@ -1141,7 +1147,7 @@ Rodgy-Thier,,,,way
 "Rue Vaudrée",,,,way
 "Rue Velbruck",,,,way
 "Rue Vert Buisson",,,,way
-"Rue Verte Houmerèsse",,,,way
+"Rue Verte Houmeresse",,,,way
 "Rue Verte-Voie",,,,way
 "Rue Victor Carpentier",,,,way
 "Rue Victor Croisier",,,,way
@@ -1157,7 +1163,6 @@ Rodgy-Thier,,,,way
 "Rue Vivi Potale",,,,way
 "Rue Vivihouet",,,,way
 "Rue Voie des Près",,,,way
-"Rue Voie des Prés",,,,way
 "Rue Volière",,,,way
 "Rue Wacheray",,,,way
 "Rue Waleffe",,,,way
@@ -1174,7 +1179,6 @@ Rodgy-Thier,,,,way
 "Rue Wilmart",,,,way
 "Rue Xhovémont",,,,way
 "Rue Zabay",,,,way
-"Rue à Matche",,,,way
 "Rue aux Chevaux",,,,way
 "Rue aux Frênes",,,,way
 "Rue d'Alleur",,,,way
@@ -1198,6 +1202,7 @@ Rodgy-Thier,,,,way
 "Rue de Bex",,,,way
 "Rue de Beyne",,,,way
 "Rue de Bois de Breux",,,,way
+"Rue de Bois de Breux - Large Voie",,,,way
 "Rue de Boncelles",,,,way
 "Rue de Bourgogne",,,,way
 "Rue de Brialmont",,,,way
@@ -1274,7 +1279,6 @@ Rodgy-Thier,,,,way
 "Rue de Waremme",,,,way
 "Rue de Waroux",,,,way
 "Rue de Weltzar",,,,way
-"Rue de Xhavée",,,,way
 "Rue de l'Abarin",,,,way
 "Rue de l'Abattoir",,,,way
 "Rue de l'Abbé Genten",,,,way
@@ -1325,7 +1329,6 @@ Rodgy-Thier,,,,way
 "Rue de l'Ourthe",,,,way
 "Rue de l'Université",,,,way
 "Rue de l'Usine",,,,way
-"Rue de l'ange bleu",,,,way
 "Rue de la Barge",,,,way
 "Rue de la Barrière",,,,way
 "Rue de la Batterie",,,,way
@@ -1358,6 +1361,7 @@ Rodgy-Thier,,,,way
 "Rue de la Crête",,,,way
 "Rue de la Digue",,,,way
 "Rue de la Dîme",,,,way
+"Rue de la Distillerie",,,,way
 "Rue de la Faille",,,,way
 "Rue de la Ferme",,,,way
 "Rue de la Foleresse",,,,way
@@ -1385,7 +1389,7 @@ Rodgy-Thier,,,,way
 "Rue de la Loi",,,,way
 "Rue de la Madeleine",,,,way
 "Rue de la Mare",,,,way
-"Rue de la Metairie",,,,way
+"Rue de la Métairie",,,,way
 "Rue de la Métallurgie",,,,way
 "Rue de la Montagne",,,,way
 "Rue de la Mutualité",,,,way
@@ -1425,6 +1429,7 @@ Rodgy-Thier,,,,way
 "Rue de la Vielle Montagne",,,,way
 "Rue de la Violette",,,,way
 "Rue de la Wache",,,,way
+"Rue de la Xhavée",,,,way
 "Rue de-Clérembault",,,,way
 "Rue dèl Rodje Cinse",,,,way
 "Rue des Abeilles",,,,way
@@ -1447,7 +1452,7 @@ Rodgy-Thier,,,,way
 "Rue des Aveugles",,,,relation
 "Rue des Bayards",,,,way
 "Rue des Beaux-Arts",,,,way
-"Rue des Bédennes",,,,way
+"Rue des Bedennes",,,,way
 "Rue des Bégards",,,,way
 "Rue des Bergers",,,,way
 "Rue des Blés",,,,way
@@ -1467,6 +1472,7 @@ Rodgy-Thier,,,,way
 "Rue des Célestines",,,,way
 "Rue des Cenelles",,,,way
 "Rue des Chaineux",,,,way
+"Rue des Chalets",,,,way
 "Rue des Châlets",,,,way
 "Rue des Champs",,,,way
 "Rue des Chapelains",,,,way
@@ -1485,8 +1491,7 @@ Rodgy-Thier,,,,way
 "Rue des Coudriers",,,,way
 "Rue des Cours",,,,way
 "Rue des Courteaux",,,,relation+way
-"Rue des Crâhlis",,,,way
-"Rue des Critchions",,,,way
+"Rue des Crâhlîs",,,,way
 "Rue des Critchons",,,,way
 "Rue des Croisiers",,,,way
 "Rue des Croix de Guerre",,,,way
@@ -1529,7 +1534,7 @@ Rodgy-Thier,,,,way
 "Rue des Gravillons",,,,way
 "Rue des Grignoux",,,,way
 "Rue des Guillemins",,,,way
-"Rue des Haïsses",,,,way
+"Rue des Haisses",,,,way
 "Rue des Haveurs",,,,way
 "Rue des Heids",,,,way
 "Rue des Héros",,,,way
@@ -1540,6 +1545,7 @@ Rodgy-Thier,,,,way
 "Rue des Houblonnières",,,,way
 "Rue des Houilléres",,,,way
 "Rue des Houlpays",,,,way
+"Rue des Houx",,,,way
 "Rue des Ixellois",,,,way
 "Rue des Jardinets",,,,way
 "Rue des Joncs",,,,way
@@ -1647,12 +1653,12 @@ Rodgy-Thier,,,,way
 "Rue du Batty",,,,way
 "Rue du Beau Hêtre",,,,way
 "Rue du Beau-Mur",,,,way
+"Rue du Beau-Mur - Rue Basse-Wez",,,,way
 "Rue du Beau-Site",,,,way
-"Rue du Béchuron",,,,way
+"Rue du Bêchuron",,,,way
 "Rue du Bel-Horizon",,,,way
 "Rue du Bénélux",,,,way
 "Rue du Biez",,,,way
-"Rue du Bois La Dame",,,,way
 "Rue du Bois Saint-Jean",,,,way
 "Rue du Bois Sauvage",,,,way
 "Rue du Bois-Joli",,,,way
@@ -1750,7 +1756,6 @@ Rodgy-Thier,,,,way
 "Rue du Potay",,,,relation
 "Rue du Pré Bolet",,,,way
 "Rue du Pré commun",,,,way
-"Rue du Pré-Binet",,,,way
 "Rue du Préay",,,,way
 "Rue du Presbytère",,,,way
 "Rue du Pressoir",,,,way
@@ -1790,10 +1795,8 @@ Rodgy-Thier,,,,way
 "Rue du Village",,,,way
 "Rue du centre",,,,way
 "Rue en Bois",,,,way
-"Rue es Houx",,,,way
-"Rue fond houleux",,,,way
 "Rue sous l'Eau",,,,way
-"Rue sous la Tour",,,,way
+"Rue sur l'Arbois",,,,way
 "Rue sur l'Ile",,,,way
 "Rue sur la Fontaine",,,,way
 "Rue sur les Foulons",,,,way
@@ -1832,7 +1835,7 @@ Rodgy-Thier,,,,way
 "Sentier privé",,,,way
 "Sentiers des Casemates",,,,way
 "Square Charlemagne",,,,relation
-"Square Edmond Cathewis",,,,way
+"Square Edmond Cathenis",,,,way
 "Square Gramme",,,,way
 "Square Saint-Léonard",,,,way
 "Square de la Paix d'Angleur",,,,way
@@ -1844,7 +1847,6 @@ Rodgy-Thier,,,,way
 "Thier des Critchions",,,,way
 "Thier des Mohets",,,,way
 "Thier des Vignobles",,,,way
-"Thier des mohets",,,,way
 "Thier du Bailly",,,,way
 "Thier du Bouhay",,,,way
 "Thier du Goreu",,,,way
@@ -1855,15 +1857,16 @@ Rodgy-Thier,,,,way
 "Verte Voie",,,,way
 "Vieille Voie de Bellaire",,,,way
 "Vieille Voie de Tongres",,,,way
+"Vieux Chemin de Fléron",,,,way
+"Vieux Chemin de Jupille",,,,way
 "Vinâve d'Île",,,,relation+way
-"Voie Melotte",,,,way
+"Voie Mélotte",,,,way
 "Voie de détresse",,,,way
 "Voie de l'Ardenne",,,,way
-"Voie des Bouviers",,,,way
 "Voie du Herdier",,,,way
 "Voisinage Jeanne Rombaut",,,,way
 "Voisinage des Griottes",,,,way
-"Voye des Cotch'Tresses",,,,way
+"Vôye des Cotch'trèsses",,,,way
 "Vôye des treûs Bouhons",,,,way
 "Waide des Dames",,,,way
 "Zone de manoeuvre Rue  du Général Modard",,,,way
