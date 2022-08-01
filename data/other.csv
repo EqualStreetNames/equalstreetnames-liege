@@ -241,7 +241,7 @@ Coclisart,,,,way
 "Drève du Château",,,,way
 "En Bergerue",,,,way
 "En Féronstrée",,,,way
-"En Mi-la-ville",,,,way
+"En Mi-La-Ville",,,,way
 "En Neuvice",,,,way
 "En Tchirrowe",,,,way
 "Entrée du Parc des Animaux",,,,way
@@ -334,7 +334,7 @@ Lavaniste-Voie,,,,way
 "Place Gabriel",,,,way
 "Place Georges Ista",,,,way
 "Place Gilles Étienne",,,,way
-"Place Gît-le-Coq",,,,way
+"Place Havart",,,,way
 "Place Hector Denis",,,,way
 "Place Henri Simon",,,,way
 "Place Henriette Brenu",,,,way
@@ -371,7 +371,6 @@ Lavaniste-Voie,,,,way
 "Place d'Elmer",,,,way
 "Place d'Italie",,,,way
 "Place de Bronckart",,,,way
-"Place de Meuse",,,,way
 "Place de l'Ourthe",,,,way
 "Place de l'Yser",,,,way
 "Place de la Cathédrale",,,,relation+way
@@ -448,7 +447,6 @@ Publémont,,,,way
 "Quai Banning",,,,way
 "Quai Bonaparte",,,,way
 "Quai Churchill",,,,way
-"Quai Edouard Van Beneden",,,,way
 "Quai Édouard Van Beneden",,,,way
 "Quai Gloesener",,,,way
 "Quai Godefroid Kurth",,,,way
@@ -552,7 +550,7 @@ Rodgy-Thier,,,,way
 "Rue Bastin",,,,way
 "Rue Beauregard",,,,way
 "Rue Beeckman",,,,way
-"Rue Belle-vue",,,,way
+"Rue Belle Vue",,,,way
 "Rue Belleflamme",,,,way
 "Rue Belvaux",,,,way
 "Rue Bernalmont",,,,way
@@ -625,13 +623,14 @@ Rodgy-Thier,,,,way
 "Rue Côte d'Or",,,,way
 "Rue Counotte",,,,way
 "Rue Coupée",,,,way
-"Rue Court-Petit",,,,way
+"Rue Cour Petit",,,,way
 "Rue Courte",,,,way
 "Rue Courtois",,,,way
 "Rue Crahay",,,,way
 "Rue Crève-Cœur",,,,way
 "Rue Croix Visé",,,,way
 "Rue Curtius",,,,way
+"Rue Damery",,,,way
 "Rue Darchis",,,,way
 "Rue Dartois",,,,way
 "Rue Dassonville",,,,way
@@ -647,7 +646,7 @@ Rodgy-Thier,,,,way
 "Rue Denis Lecocq",,,,way
 "Rue Denis Sotiau",,,,way
 "Rue Derrière Coronmeuse",,,,way
-"Rue Derrière le Chateau",,,,way
+"Rue Derrière le Château",,,,way
 "Rue Descardre",,,,way
 "Rue Désiré Simonis",,,,way
 "Rue Dessus l'Église",,,,way
@@ -664,7 +663,6 @@ Rodgy-Thier,,,,way
 "Rue Dossin",,,,way
 "Rue Dothée",,,,way
 "Rue Douffet",,,,way
-"Rue Du Castel",,,,way
 "Rue Duvivier",,,,way
 "Rue Edmond Jacquemotte",,,,way
 "Rue Édouard Marcotty",,,,way
@@ -700,10 +698,10 @@ Rodgy-Thier,,,,way
 "Rue Félix-Paulsen",,,,way
 "Rue Ferdinand Borny",,,,way
 "Rue Ferdinand Desoer",,,,way
+"Rue Ferdinand Heuveneers",,,,way
 "Rue Ferdinand Nicolay",,,,way
 "Rue Ferdinand-Hénaux",,,,way
 "Rue Fernand Dehousse",,,,way
-"Rue Fernand Heuveneers",,,,way
 "Rue Fernand Tilquin",,,,way
 "Rue Fernande Coulon",,,,way
 "Rue Firquet",,,,way
@@ -866,7 +864,7 @@ Rodgy-Thier,,,,way
 "Rue Joseph Hodeige",,,,way
 "Rue Joseph Jaspar",,,,way
 "Rue Joseph Joset",,,,way
-"Rue Joseph Lambermont",,,,way
+"Rue Joseph Lambremont",,,,way
 "Rue Joseph Lemaire",,,,way
 "Rue Joseph Marcotty",,,,way
 "Rue Joseph Pirotte",,,,way
@@ -1167,7 +1165,6 @@ Rodgy-Thier,,,,way
 "Rue Wacheray",,,,way
 "Rue Waleffe",,,,way
 "Rue Waltère Hamay",,,,way
-"Rue Walthère Damery",,,,way
 "Rue Walthère Dewé",,,,way
 "Rue Walthère Jamar",,,,way
 "Rue Walthère Lallemand",,,,way
@@ -1183,7 +1180,7 @@ Rodgy-Thier,,,,way
 "Rue aux Frênes",,,,way
 "Rue d'Alleur",,,,way
 "Rue d'Amay",,,,way
-"Rue d'Amercœur",,,,way
+"Rue d'Amercoeur",,,,way
 "Rue d'Angleur",,,,way
 "Rue d'Ans",,,,relation
 "Rue d'Anthisnes",,,,way
@@ -1278,7 +1275,7 @@ Rodgy-Thier,,,,way
 "Rue de Vottem",,,,way
 "Rue de Waremme",,,,way
 "Rue de Waroux",,,,way
-"Rue de Weltzar",,,,way
+"Rue de Wetzlar",,,,way
 "Rue de l'Abarin",,,,way
 "Rue de l'Abattoir",,,,way
 "Rue de l'Abbé Genten",,,,way
@@ -1522,7 +1519,7 @@ Rodgy-Thier,,,,way
 "Rue des Fraisiers",,,,way
 "Rue des Français",,,,way
 "Rue des Franchimontois",,,,way
-"Rue des Frères Philipart",,,,way
+"Rue des Frères Philippart",,,,way
 "Rue des Fusillés",,,,way
 "Rue des Gardes-Frontière",,,,way
 "Rue des Geais",,,,way
@@ -1572,7 +1569,7 @@ Rodgy-Thier,,,,way
 "Rue des Moissons",,,,way
 "Rue des Montagnards",,,,way
 "Rue des Moulins",,,,way
-"Rue des Mugets",,,,way
+"Rue des Muguets",,,,way
 "Rue des Myrtilles",,,,way
 "Rue des Naiveux",,,,way
 "Rue des Neuf-Journaux",,,,way
@@ -1669,6 +1666,7 @@ Rodgy-Thier,,,,way
 "Rue du Calvaire",,,,way
 "Rue du Canal-de-l'Ourthe",,,,way
 "Rue du Carmel",,,,way
+"Rue du Castel",,,,way
 "Rue du Cellier",,,,way
 "Rue du Centenaire",,,,relation
 "Rue du Centre Spatial",,,,way
@@ -1840,7 +1838,6 @@ Rodgy-Thier,,,,way
 "Square Saint-Léonard",,,,way
 "Square de la Paix d'Angleur",,,,way
 "Thier Dame Ide",,,,way
-"Thier Des Minimes",,,,way
 "Thier Savary",,,,way
 "Thier de la Chartreuse",,,,way
 "Thier de la Fontaine",,,,way
@@ -1872,4 +1869,5 @@ Rodgy-Thier,,,,way
 "Zone de manoeuvre Rue  du Général Modard",,,,way
 "chemin du Champ des Oiseaux",,,,way
 "rue Hocheporte",,,,way
+"rue de tilff",,,,way
 "rue du Stalon",,,,relation
