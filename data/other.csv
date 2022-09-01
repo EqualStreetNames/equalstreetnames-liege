@@ -43,7 +43,7 @@ name,source,gender,wikidata,type
 "Avenue Constantin de Gerlache",,,,way
 "Avenue Dieudonné Lambrecht",,,,way
 "Avenue Emile Digneffe",,,,way
-"Avenue Emile Jenissen",,,,way
+"Avenue Emile Jennissen",,,,way
 "Avenue Francisco Ferrer",,,,way
 "Avenue Freddy Terwagne",,,,way
 "Avenue Henri Borguet",,,,way
@@ -117,7 +117,6 @@ name,source,gender,wikidata,type
 "Boulevard Léon Philippet",,,,way
 "Boulevard Louis Hillier",,,,way
 "Boulevard Montéfiore",,,,way
-"Boulevard Patience et Beaujonc",,,,way
 "Boulevard Piercot",,,,way
 "Boulevard Raymond Poincaré",,,,way
 "Boulevard Sainte-Beuve",,,,way
@@ -127,6 +126,7 @@ name,source,gender,wikidata,type
 "Boulevard de Colonster",,,,way
 "Boulevard de Douai",,,,way
 "Boulevard de Froidmont",,,,way
+"Boulevard de Patience et Beaujonc",,,,way
 "Boulevard de l'Est",,,,way
 "Boulevard de l'Ourthe",,,,way
 "Boulevard de la Constitution",,,,way
@@ -149,7 +149,6 @@ name,source,gender,wikidata,type
 "Chemin Lise Meitner",,,,way
 "Chemin Michel Gobiet",,,,way
 "Chemin Polina Mendeleef",,,,way
-"Chemin d'Éole",,,,way
 "Chemin de Grand Maître",,,,way
 "Chemin de Rabosée",,,,way
 "Chemin de l'Auberge",,,,way
@@ -181,7 +180,6 @@ name,source,gender,wikidata,type
 Chertal,,,,relation
 "Cité André Renard",,,,way
 "Cité Gérard Cloes",,,,way
-"Cité Théwis",,,,way
 "Cité des Démineurs",,,,way
 "Cité des Mineurs",,,,way
 "Cité des Thiers",,,,way
@@ -243,7 +241,6 @@ Coclisart,,,,way
 "En Féronstrée",,,,way
 "En Mi-La-Ville",,,,way
 "En Neuvice",,,,way
-"En Tchirrowe",,,,way
 "Entrée du Parc des Animaux",,,,way
 Es-Lairesse,,,,way
 "Escaliers des Bégards",,,,way
@@ -262,6 +259,7 @@ GR57,,,,way
 "Île Monsin",,,,relation
 "Impasse Beco",,,,way
 "Impasse Boileau",,,,way
+"Impasse Carpay",,,,way
 "Impasse Croctay",,,,way
 "Impasse Defize",,,,way
 "Impasse Derousseau",,,,way
@@ -270,7 +268,6 @@ GR57,,,,way
 "Impasse Guillaume",,,,way
 "Impasse Henvard",,,,way
 "Impasse Horion",,,,way
-"Impasse Hubert Goffin",,,,way
 "Impasse Jonckeu",,,,way
 "Impasse Macors",,,,way
 "Impasse Magnée",,,,way
@@ -345,10 +342,12 @@ Lavaniste-Voie,,,,way
 "Place Joseph Dejardin",,,,way
 "Place Joseph Willem",,,,way
 "Place Jules Seeliger",,,,way
+"Place Marcel Lonay",,,,way
 "Place Mathieu Bodson",,,,way
 "Place Nicolas Bernimolin",,,,way
 "Place Notger",,,,way
 "Place Pierre Clerdent",,,,relation
+"Place République Française",,,,way
 "Place Saint Denis",,,,way
 "Place Saint Jacques",,,,way
 "Place Saint-Barthélemy",,,,relation+way
@@ -487,6 +486,7 @@ RAVeL,,,,way
 "RAVeL 5",,,,way
 "RAVeL L 38",,,,way
 "RAVeL Ligne 210",,,,way
+"RAVeL Ligne 212",,,,way
 "RAVeL Ligne 31",,,,way
 "RAVeL Meuse",,,,way
 "Rampe du Pont d'Ougrée",,,,way
@@ -618,6 +618,7 @@ Rodgy-Thier,,,,way
 "Rue Commandant Duchesne",,,,way
 "Rue Commandant Naessens",,,,way
 "Rue Constantin Le Paige",,,,way
+"Rue Constantin le Paige",,,,way
 "Rue Coqraimont",,,,way
 "Rue Corémolin",,,,way
 "Rue Côte d'Or",,,,way
@@ -1024,7 +1025,7 @@ Rodgy-Thier,,,,way
 "Rue Prince-de-Liège",,,,way
 "Rue Principale",,,,way
 "Rue Professeur Mahaim",,,,way
-"Rue Provinciale",,,,way
+"Rue Provinciale - Rue François Lefèbvre",,,,way
 "Rue Puits-en-Sock",,,,way
 "Rue Raes-de-Heers",,,,way
 "Rue Raikem",,,,way
@@ -1126,7 +1127,7 @@ Rodgy-Thier,,,,way
 "Rue Théodore Schwann",,,,way
 "Rue Théodore de Bry",,,,way
 "Rue Théophile Bovy",,,,way
-"Rue Thier Del Dague",,,,way
+"Rue Thier del Dague",,,,way
 "Rue Thône",,,,way
 "Rue Tour-en-Bêche",,,,way
 "Rue Tournant Saint-Paul",,,,way
@@ -1203,7 +1204,6 @@ Rodgy-Thier,,,,way
 "Rue de Boncelles",,,,way
 "Rue de Bourgogne",,,,way
 "Rue de Brialmont",,,,way
-"Rue de Burenville",,,,way
 "Rue de Campine",,,,way
 "Rue de Chaudfontaine",,,,way
 "Rue de Chênée",,,,way
@@ -1456,7 +1456,7 @@ Rodgy-Thier,,,,way
 "Rue des Bluets",,,,way
 "Rue des Bonnes-Villes",,,,way
 "Rue des Bons Enfants",,,,way
-"Rue des Boteresses",,,,way
+"Rue des Boterèsses",,,,way
 "Rue des Bouleaux",,,,way
 "Rue des Brasseurs",,,,way
 "Rue des Bruyères",,,,way
@@ -1553,7 +1553,7 @@ Rodgy-Thier,,,,way
 "Rue des Lys",,,,way
 "Rue des Machiroux",,,,way
 "Rue des Maraîchers",,,,way
-"Rue des Marecages",,,,way
+"Rue des Marécages",,,,way
 "Rue des Marêts",,,,way
 "Rue des Marguerites",,,,way
 "Rue des Mariniers",,,,way
@@ -1596,7 +1596,7 @@ Rodgy-Thier,,,,way
 "Rue des Platineurs",,,,way
 "Rue des Pnsons",,,,way
 "Rue des Pocheteux",,,,way
-"Rue des Poiners",,,,way
+"Rue des Poiriers",,,,way
 "Rue des Pôles",,,,way
 "Rue des Pontons",,,,way
 "Rue des Porteuses d'Eau",,,,way
@@ -1637,11 +1637,9 @@ Rodgy-Thier,,,,way
 "Rue des Vignerons",,,,way
 "Rue des Vignes",,,,way
 "Rue des Vingt-Deux",,,,way
-"Rue des Waides",,,,way
 "Rue des Wallons",,,,way
 "Rue des jasmins",,,,way
 "Rue des steppes",,,,way
-"Rue des wallons",,,,way
 "Rue du Bâneux",,,,way
 "Rue du Baron",,,,way
 "Rue du Bassin",,,,way
@@ -1669,6 +1667,7 @@ Rodgy-Thier,,,,way
 "Rue du Castel",,,,way
 "Rue du Cellier",,,,way
 "Rue du Centenaire",,,,relation
+"Rue du Centre",,,,way
 "Rue du Centre Spatial",,,,way
 "Rue du Champay",,,,way
 "Rue du Champion",,,,way
@@ -1791,7 +1790,6 @@ Rodgy-Thier,,,,way
 "Rue du Vieux Mayeur",,,,way
 "Rue du Vieux-Château",,,,way
 "Rue du Village",,,,way
-"Rue du centre",,,,way
 "Rue en Bois",,,,way
 "Rue sous l'Eau",,,,way
 "Rue sur l'Arbois",,,,way
@@ -1807,6 +1805,7 @@ Rodgy-Thier,,,,way
 "Ruelle de la Licorne",,,,way
 "Ruelle des Chats",,,,way
 "Ruelle des Myosotis - Rue d'Awans",,,,way
+"Ruelle des Waides",,,,way
 "Ruelle du Tramway",,,,way
 "Rus Oscar Flesch",,,,way
 "Sart aux Fraises",,,,way
