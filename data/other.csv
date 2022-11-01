@@ -10,6 +10,7 @@ name,source,gender,wikidata,type
 "Allée Edgard D'Hont",,,,way
 "Allée Frédéric Chopin",,,,way
 "Allée Grande Hollande",,,,way
+"Allée Marcel Dehalu",,,,way
 "Allée Pillechoulle",,,,way
 "Allée Rohan-Chabot",,,,way
 "Allée de l'Absent",,,,way
@@ -138,6 +139,7 @@ name,source,gender,wikidata,type
 "Boulevard du Deuxième Lanciers",,,,way
 "Boulevard du Rectorat",,,,way
 "Boulevard du Troisième Génie",,,,way
+"Chaussée Churchill",,,,way
 "Chaussée de Gaulle",,,,way
 "Chaussée de Tongres",,,,way
 "Chaussée des Prés",,,,way
@@ -227,9 +229,9 @@ Coclisart,,,,way
 "Cour des Mineurs",,,,way
 "Cour des Minimes",,,,way
 "Cour du Rivage",,,,way
-"Degré des Artisans",,,,way
 "Degrés Izoard",,,,way
 "Degrés Saint-Pierre",,,,way
+"Degrés des Artisans",,,,way
 "Degrès des Dentellières",,,,way
 "Degrés des Jésuites Anglais",,,,way
 "Degrés des Tisserands",,,,way
@@ -294,7 +296,6 @@ Lavaniste-Voie,,,,way
 "Le Carré",,,,relation
 "Mont Saint-Martin",,,,way
 "Montagne Sainte-Walburge",,,,way
-"Montagne de Bueren",,,,way
 "Parc Sauveur",,,,way
 "Parc de la Boverie",,,,way
 "Parvis des Écoliers",,,,way
@@ -747,9 +748,9 @@ Rodgy-Thier,,,,way
 "Rue Général Jacques de Dixmude",,,,way
 "Rue Général de Gaulle",,,,way
 "Rue Genot",,,,way
-"Rue George Rem",,,,way
 "Rue Georges Antoine",,,,way
 "Rue Georges Clemenceau",,,,way
+"Rue Georges Rem",,,,way
 "Rue Georges Simenon",,,,relation
 "Rue Georges Thone",,,,way
 "Rue Gérardrie",,,,way
@@ -942,6 +943,7 @@ Rodgy-Thier,,,,way
 "Rue Marçon",,,,way
 "Rue Maréchal Foch",,,,way
 "Rue Marengo",,,,way
+"Rue Marie Curie",,,,way
 "Rue Marie-Louise-Naveau",,,,way
 "Rue Mathieu Bodson",,,,way
 "Rue Mathieu Laensbergh",,,,way
