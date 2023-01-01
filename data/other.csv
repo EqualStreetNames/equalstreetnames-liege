@@ -18,7 +18,6 @@ name,source,gender,wikidata,type
 "Allée de la Cense Rouge",,,,way
 "Allée de la Cense Rouge - Rue dèl Rodje Cinse",,,,way
 "Allée de la Découverte",,,,way
-"Allée de la Physique",,,,way
 "Allée des Abbesses",,,,way
 "Allée des Érables",,,,way
 "Allée des Noisetiers",,,,way
@@ -122,7 +121,7 @@ name,source,gender,wikidata,type
 "Boulevard Raymond Poincaré",,,,way
 "Boulevard Sainte-Beuve",,,,way
 "Boulevard Saucy",,,,way
-"Boulevard d'Avroy",,,,way
+"Boulevard d'Avroy",,,,relation+way
 "Boulevard de Beaufraipont",,,,way
 "Boulevard de Colonster",,,,way
 "Boulevard de Douai",,,,way
@@ -289,7 +288,6 @@ Favechamps,,,,way
 "Jardin Emile Vandervelde",,,,way
 "Jardin de l'abbé Firket",,,,way
 Jonruelle,,,,way
-L'Agora,,,,way
 "La Batte",,,,way
 "Large Voie",,,,way
 Lavaniste-Voie,,,,way
@@ -443,7 +441,6 @@ Lavaniste-Voie,,,,way
 "Pont du Lhonneux",,,,way
 "Pont du Roi Albert",,,,way
 Potiérue,,,,way
-"Propriété privée",,,,way
 Publémont,,,,way
 "Quai Banning",,,,way
 "Quai Bonaparte",,,,way
@@ -454,6 +451,7 @@ Publémont,,,,way
 "Quai Henri Borguet",,,,way
 "Quai Joseph Wauters",,,,way
 "Quai Julien-Rémont",,,,way
+"Quai Marcelis",,,,way
 "Quai Marcellis",,,,way
 "Quai Mativa",,,,way
 "Quai Mickiels",,,,way
