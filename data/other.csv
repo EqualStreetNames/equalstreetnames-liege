@@ -405,7 +405,7 @@ Lavaniste-Voie,,,,way
 "Place du Général Leman",,,,way
 "Place du Gravier",,,,way
 "Place du Haut-Pré",,,,relation+way
-"Place du Marché",,,,relation+way
+"Place du Marché",,,,way
 "Place du Nord",,,,way
 "Place du Parc",,,,way
 "Place du Tilleul",,,,way
@@ -1830,7 +1830,6 @@ Rodgy-Thier,,,,way
 "Sentier du Terris",,,,way
 "Sentier du bois",,,,way
 "Sentier n° 15",,,,way
-"Sentier privé",,,,way
 "Sentiers des Casemates",,,,way
 "Square Charlemagne",,,,relation
 "Square Edmond Cathenis",,,,way
