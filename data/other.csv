@@ -182,7 +182,6 @@ Chertal,,,,relation
 "Cité André Renard",,,,way
 "Cité Gérard Cloes",,,,way
 "Cité des Démineurs",,,,way
-"Cité des Mineurs",,,,way
 "Cité des Thiers",,,,way
 "Cité du Moulin",,,,way
 "Clos Anne de Chantraine",,,,way
@@ -192,6 +191,7 @@ Chertal,,,,relation
 "Clos Hesbignon",,,,way
 "Clos Mercator",,,,way
 "Clos Michel Thiry",,,,way
+"Clos de l'Aérodrome",,,,way
 "Clos de l'Horticulture",,,,way
 "Clos des Briquetiers",,,,way
 "Clos des Chardonnerets",,,,way
@@ -857,7 +857,6 @@ Rodgy-Thier,,,,way
 "Rue Joseph Deflandre",,,,way
 "Rue Joseph Dejardin",,,,way
 "Rue Joseph Delboeuf",,,,way
-"Rue Joseph Demoulin",,,,way
 "Rue Joseph Donneaux",,,,way
 "Rue Joseph Halkin",,,,way
 "Rue Joseph Henrion",,,,way
@@ -1681,7 +1680,6 @@ Rodgy-Thier,,,,way
 "Rue du Cheval Blanc",,,,way
 "Rue du Cimetière",,,,way
 "Rue du Clairbois",,,,way
-"Rue du Commandant Marchand",,,,way
 "Rue du Commandant Speesen",,,,way
 "Rue du Confluent",,,,way
 "Rue du Conseil",,,,way
