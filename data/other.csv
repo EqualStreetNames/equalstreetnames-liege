@@ -245,15 +245,15 @@ Coclisart,,,,way
 "En Neuvice",,,,way
 "Entrée du Parc des Animaux",,,,way
 Es-Lairesse,,,,way
+Escaliers,,,,way
 "Escaliers des Bégards",,,,way
 "Espace François Jacqmin",,,,way
-"Espace Tivoli",,,,way
+"Espace Tivoli",,,,relation
 "Esplanade Albert 1er",,,,way
 "Esplanade Saint Léonard",,,,relation
 Favechamps,,,,way
 "Galeria Regina",,,,way
 "Galerie de la Sauvenière",,,,way
-"Galeries Saint-Lambert",,,,way
 "Gallerie Cathédrale",,,,way
 "Grande Traverse",,,,way
 "Haut Fawe",,,,way
@@ -285,7 +285,6 @@ Favechamps,,,,way
 "Impasse des Ursulines",,,,way
 "Impasse du Chéra",,,,way
 "Impasse du Gué",,,,way
-"Inaccessible si champ emblavé",,,,way
 "Jardin Emile Vandervelde",,,,way
 "Jardin de l'abbé Firket",,,,way
 Jonruelle,,,,way
@@ -297,6 +296,7 @@ Lavaniste-Voie,,,,way
 "Mont Saint-Martin",,,,way
 "Montagne Sainte-Walburge",,,,way
 "Parc Sauveur",,,,way
+"Parc d'Avroy",,,,way
 "Parc de la Boverie",,,,way
 "Parvis des Écoliers",,,,way
 "Passage Albert Van Den Berg",,,,way
@@ -352,6 +352,7 @@ Lavaniste-Voie,,,,way
 "Place Saint-Barthélemy",,,,relation+way
 "Place Saint-Christophe",,,,way
 "Place Saint-Étienne",,,,way
+"Place Saint-Lambert",,,,way
 "Place Saint-Michel",,,,way
 "Place Saint-Nicolas",,,,way
 "Place Saint-Paul",,,,relation+way
@@ -379,6 +380,7 @@ Lavaniste-Voie,,,,way
 "Place de la Solidarité",,,,way
 "Place de la Vieille-Montagne",,,,way
 "Place des Abeilles",,,,way
+"Place des Arts",,,,way
 "Place des Arzis",,,,way
 "Place des Béguinages",,,,way
 "Place des Bons Enfants",,,,way
@@ -399,6 +401,7 @@ Lavaniste-Voie,,,,way
 "Place des Wallons",,,,way
 "Place du 20 Août",,,,way
 "Place du Batty",,,,way
+"Place du Commissaire Maigret",,,,way
 "Place du Congrès",,,,way
 "Place du Flot",,,,way
 "Place du Fourchu Fossé",,,,way
@@ -410,7 +413,7 @@ Lavaniste-Voie,,,,way
 "Place du Parc",,,,way
 "Place du Tilleul",,,,way
 "Place du Vieux-Puits",,,,way
-"Place du XX Août",,,,way
+"Place du Vingt Août",,,,way
 "Plateau du Bouhay",,,,way
 "Pont Albert 1er",,,,way
 "Pont Biais",,,,way
@@ -456,6 +459,7 @@ Publémont,,,,way
 "Quai Mickiels",,,,way
 "Quai Mozart",,,,way
 "Quai Roosevelt",,,,way
+"Quai Roosevelt insert",,,,way
 "Quai Saint-Léonard",,,,way
 "Quai Saint-Paul de Sinçay",,,,way
 "Quai Sainte Barbe",,,,way
@@ -739,6 +743,7 @@ Rodgy-Thier,,,,way
 "Rue Frésart",,,,way
 "Rue Fusch",,,,way
 "Rue Gaillard Cheval",,,,way
+"Rue Gaillard-Cheval",,,,way
 "Rue Galilée",,,,way
 "Rue Garde-Dieu",,,,way
 "Rue Gaston Laboulle",,,,way
@@ -783,10 +788,12 @@ Rodgy-Thier,,,,way
 "Rue Haute Voie",,,,way
 "Rue Haute-Wez",,,,way
 "Rue Hauzeur",,,,way
+"Rue Hayeneux",,,,way
 "Rue Hazinelle",,,,way
 "Rue Hector Chainaye",,,,way
 "Rue Hector Denis",,,,way
 "Rue Heid de Maël",,,,way
+"Rue Hélène van Heule",,,,way
 "Rue Hemricourt",,,,way
 "Rue Henkart",,,,way
 "Rue Hennequin",,,,way
@@ -933,6 +940,7 @@ Rodgy-Thier,,,,way
 "Rue Lulay des Fèbvres",,,,way
 "Rue Ma Campagne",,,,way
 "Rue Mabiet",,,,way
+"Rue Madeleine Brès-Gebelin",,,,way
 "Rue Maghin",,,,way
 "Rue Malvaux",,,,way
 "Rue Mandeville",,,,way
@@ -1227,6 +1235,7 @@ Rodgy-Thier,,,,way
 "Rue de Jemeppe",,,,way
 "Rue de Joie",,,,way
 "Rue de Kinkempois",,,,way
+"Rue de L'Épée",,,,way
 "Rue de L'enclos",,,,way
 "Rue de Lantin",,,,way
 "Rue de Liège",,,,way
@@ -1444,7 +1453,7 @@ Rodgy-Thier,,,,way
 "Rue des Ateliers",,,,way
 "Rue des Aubépines",,,,way
 "Rue des Augustins",,,,way
-"Rue des Aveugles",,,,relation
+"Rue des Aveugles",,,,way
 "Rue des Bayards",,,,way
 "Rue des Beaux-Arts",,,,way
 "Rue des Bedennes",,,,way
@@ -1602,6 +1611,7 @@ Rodgy-Thier,,,,way
 "Rue des Prébendiers",,,,way
 "Rue des Prémontrés",,,,way
 "Rue des Prés",,,,way
+"Rue des Près Saint-Denis",,,,way
 "Rue des Primeroses",,,,way
 "Rue des Primeurs",,,,way
 "Rue des Primevères",,,,way
@@ -1616,7 +1626,6 @@ Rodgy-Thier,,,,way
 "Rue des Sarts",,,,way
 "Rue des Semailles",,,,way
 "Rue des Sorbiers",,,,way
-"Rue des Steppes",,,,way
 "Rue des Sureaux",,,,way
 "Rue des Tamaris",,,,way
 "Rue des Tanneurs",,,,way
@@ -1637,7 +1646,6 @@ Rodgy-Thier,,,,way
 "Rue des Vingt-Deux",,,,way
 "Rue des Wallons",,,,way
 "Rue des jasmins",,,,way
-"Rue des steppes",,,,way
 "Rue du Bâneux",,,,way
 "Rue du Baron",,,,way
 "Rue du Bassin",,,,way
@@ -1662,6 +1670,7 @@ Rodgy-Thier,,,,way
 "Rue du Calvaire",,,,way
 "Rue du Canal-de-l'Ourthe",,,,way
 "Rue du Carmel",,,,way
+"Rue du Carré",,,,way
 "Rue du Castel",,,,way
 "Rue du Cellier",,,,way
 "Rue du Centenaire",,,,relation
@@ -1725,6 +1734,7 @@ Rodgy-Thier,,,,way
 "Rue du Mayeur",,,,way
 "Rue du Mémorial",,,,way
 "Rue du Méry",,,,way
+"Rue du Mont-de-Piété",,,,way
 "Rue du Moulin",,,,way
 "Rue du Mouton Blanc",,,,way
 "Rue du Mûrier",,,,way
@@ -1749,7 +1759,6 @@ Rodgy-Thier,,,,way
 "Rue du Pot d'Or",,,,way
 "Rue du Potay",,,,relation
 "Rue du Pré Bolet",,,,way
-"Rue du Pré commun",,,,way
 "Rue du Préay",,,,way
 "Rue du Presbytère",,,,way
 "Rue du Pressoir",,,,way
@@ -1770,6 +1779,7 @@ Rodgy-Thier,,,,way
 "Rue du Sergent Merx",,,,way
 "Rue du Snapeux",,,,way
 "Rue du Stade",,,,way
+"Rue du Stalon",,,,way
 "Rue du Taillis",,,,way
 "Rue du Terris",,,,way
 "Rue du Thier-à-Liège",,,,way
@@ -1827,7 +1837,6 @@ Rodgy-Thier,,,,way
 "Sentier du bois",,,,way
 "Sentier n° 15",,,,way
 "Sentiers des Casemates",,,,way
-"Square Charlemagne",,,,relation
 "Square Edmond Cathenis",,,,way
 "Square Gramme",,,,way
 "Square Saint-Léonard",,,,way
@@ -1842,7 +1851,6 @@ Rodgy-Thier,,,,way
 "Thier du Bailly",,,,way
 "Thier du Bouhay",,,,way
 "Thier du Goreu",,,,way
-"Traverse botanique",,,,way
 "Traverse des Architectes",,,,way
 "Tunnel de la Chartreuse",,,,way
 "Tunnel du Benelux",,,,way
@@ -1865,5 +1873,5 @@ Rodgy-Thier,,,,way
 "chemin du Champ des Oiseaux",,,,way
 "rue Hocheporte",,,,way
 "rue René Demoitelle",,,,way
+"rue Sainte-Ursule",,,,way
 "rue de tilff",,,,way
-"rue du Stalon",,,,relation
