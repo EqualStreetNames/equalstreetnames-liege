@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Avenue de Lille",wikidata,,Q648,way
 "Pont Atlas",wikidata,,Q2869444,way
 "Rue de Bruxelles",wikidata,,Q239,way
+..,,,,way
 "Aire de Glain",,,,way
 "Al'Rodje Creû",,,,way
 "Allée Albert Puters",,,,way
@@ -98,7 +99,6 @@ name,source,gender,wikidata,type
 "Avenue du Bois Saint-Jean",,,,way
 "Avenue du Hêtre",,,,way
 "Avenue du Luxembourg",,,,way
-"Avenue du Parc",,,,way
 "Avenue du Petit-Bourgogne",,,,way
 "Avenue du Tennis",,,,way
 "Avenue du Théâtre de Verdure",,,,way
@@ -245,9 +245,7 @@ Coclisart,,,,way
 "En Neuvice",,,,way
 "Entrée du Parc des Animaux",,,,way
 Es-Lairesse,,,,way
-Escaliers,,,,way
 "Escaliers des Bégards",,,,way
-"Espace François Jacqmin",,,,way
 "Espace Tivoli",,,,relation
 "Esplanade Albert 1er",,,,way
 "Esplanade Saint Léonard",,,,relation
@@ -276,11 +274,17 @@ Favechamps,,,,way
 "Impasse Pissaine",,,,way
 "Impasse Simonis",,,,way
 "Impasse Thiernesse",,,,way
+"Impasse Venta",,,,way
+"Impasse Vieux-Pont-des-Arches",,,,way
 "Impasse d'Elmer",,,,way
 "Impasse de Vottem",,,,way
+"Impasse de l'Ange",,,,way
 "Impasse de l'Avenir",,,,way
+"Impasse de la Chaine",,,,way
+"Impasse de la Couronne",,,,way
 "Impasse de la Gare",,,,way
 "Impasse de la Mutualité",,,,way
+"Impasse de la Vignette",,,,way
 "Impasse des Camus",,,,way
 "Impasse des Ursulines",,,,way
 "Impasse du Chéra",,,,way
@@ -399,7 +403,6 @@ Lavaniste-Voie,,,,way
 "Place des Orateurs",,,,way
 "Place des Vennes",,,,way
 "Place des Wallons",,,,way
-"Place du 20 Août",,,,way
 "Place du Batty",,,,way
 "Place du Commissaire Maigret",,,,way
 "Place du Congrès",,,,way
@@ -415,7 +418,6 @@ Lavaniste-Voie,,,,way
 "Place du Vieux-Puits",,,,way
 "Place du Vingt Août",,,,way
 "Plateau du Bouhay",,,,way
-"Pont Albert 1er",,,,way
 "Pont Biais",,,,way
 "Pont Gaston",,,,way
 "Pont Gramme",,,,way
@@ -453,7 +455,6 @@ Publémont,,,,way
 "Quai Godefroid Kurth",,,,way
 "Quai Henri Borguet",,,,way
 "Quai Joseph Wauters",,,,way
-"Quai Marcelis",,,,way
 "Quai Marcellis",,,,way
 "Quai Mativa",,,,way
 "Quai Mickiels",,,,way
@@ -462,7 +463,6 @@ Publémont,,,,way
 "Quai Roosevelt insert",,,,way
 "Quai Saint-Léonard",,,,way
 "Quai Saint-Paul de Sinçay",,,,way
-"Quai Sainte Barbe",,,,way
 "Quai Sainte-Barbe",,,,way
 "Quai Timmermans",,,,way
 "Quai Vercour",,,,way
@@ -530,6 +530,7 @@ Rodgy-Thier,,,,way
 "Rue Ansiaux",,,,way
 "Rue Armand Michaux",,,,way
 "Rue Armand Rassenfosse",,,,way
+"Rue Armand Stévart",,,,way
 "Rue Armand Stouls",,,,way
 "Rue Artus-Bris",,,,way
 "Rue Auguste Buisseret",,,,way
@@ -582,6 +583,8 @@ Rodgy-Thier,,,,way
 "Rue Bossy",,,,way
 "Rue Bourdon",,,,way
 "Rue Bovy",,,,way
+"Rue Brahy",,,,way
+"Rue Brailleux",,,,way
 "Rue Branche Planchard",,,,way
 "Rue Burenville",,,,way
 "Rue Burton",,,,way
@@ -849,8 +852,8 @@ Rodgy-Thier,,,,way
 "Rue Jean Volders",,,,way
 "Rue Jean Warroquiers",,,,way
 "Rue Jean d'Outremeuse",,,,way
+"Rue Jean-Baptiste Cools",,,,way
 "Rue Jean-Baptiste Juppin",,,,way
-"Rue Jean-Baptiste-Cools",,,,way
 "Rue Jean-Etienne",,,,way
 "Rue Jean-Mathieu Nisen",,,,way
 "Rue Jeanne Renotte",,,,way
@@ -1346,7 +1349,6 @@ Rodgy-Thier,,,,way
 "Rue de la Bure aux Femmes",,,,way
 "Rue de la Butte",,,,way
 "Rue de la Câblerie",,,,way
-"Rue de la Canonnerie",,,,way
 "Rue de la Casquette",,,,way
 "Rue de la Cathédrale",,,,way
 "Rue de la Centrale",,,,way
@@ -1757,7 +1759,7 @@ Rodgy-Thier,,,,way
 "Rue du Pont de Wandre",,,,way
 "Rue du Port",,,,way
 "Rue du Pot d'Or",,,,way
-"Rue du Potay",,,,relation
+"Rue du Potay",,,,way
 "Rue du Pré Bolet",,,,way
 "Rue du Préay",,,,way
 "Rue du Presbytère",,,,way
