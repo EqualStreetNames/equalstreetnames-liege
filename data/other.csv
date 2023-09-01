@@ -47,7 +47,6 @@ name,source,gender,wikidata,type
 "Avenue Francisco Ferrer",,,,way
 "Avenue Freddy Terwagne",,,,way
 "Avenue Henri Borguet",,,,way
-"Avenue Henri Lonay",,,,way
 "Avenue Henri Piedboeuf",,,,way
 "Avenue Henri-Warnant",,,,way
 "Avenue Hippocrate",,,,way
@@ -280,7 +279,7 @@ Favechamps,,,,way
 "Impasse de Vottem",,,,way
 "Impasse de l'Ange",,,,way
 "Impasse de l'Avenir",,,,way
-"Impasse de la Chaine",,,,way
+"Impasse de la Chaîne",,,,way
 "Impasse de la Couronne",,,,way
 "Impasse de la Gare",,,,way
 "Impasse de la Mutualité",,,,way
@@ -299,6 +298,7 @@ Lavaniste-Voie,,,,way
 "Le Carré",,,,relation
 "Mont Saint-Martin",,,,way
 "Montagne Sainte-Walburge",,,,way
+"Montée directe trail",,,,way
 "Parc Sauveur",,,,way
 "Parc d'Avroy",,,,way
 "Parc de la Boverie",,,,way
@@ -366,7 +366,6 @@ Lavaniste-Voie,,,,way
 "Place Sainte-Véronique",,,,way
 "Place Sainte-Walburge",,,,way
 "Place Sylvain Dupuis",,,,way
-"Place Théodore-Gobert",,,,way
 "Place Verte",,,,way
 "Place Vivegnis",,,,way
 "Place Wérihet",,,,way
@@ -411,7 +410,7 @@ Lavaniste-Voie,,,,way
 "Place du Général Leman",,,,way
 "Place du Gravier",,,,way
 "Place du Haut-Pré",,,,relation+way
-"Place du Marché",,,,way
+"Place du Marché",,,,relation+way
 "Place du Nord",,,,way
 "Place du Parc",,,,way
 "Place du Tilleul",,,,way
@@ -1866,6 +1865,7 @@ Rodgy-Thier,,,,way
 "Voie de détresse",,,,way
 "Voie de l'Ardenne",,,,way
 "Voie du Herdier",,,,way
+"Voie du Sart-Tilman",,,,way
 "Voisinage Jeanne Rombaut",,,,way
 "Voisinage des Griottes",,,,way
 "Vôye des Cotch'trèsses",,,,way
@@ -1875,5 +1875,4 @@ Rodgy-Thier,,,,way
 "chemin du Champ des Oiseaux",,,,way
 "rue Hocheporte",,,,way
 "rue René Demoitelle",,,,way
-"rue Sainte-Ursule",,,,way
 "rue de tilff",,,,way
