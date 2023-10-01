@@ -2,6 +2,7 @@ name,source,gender,wikidata,type
 "Avenue de Lille",wikidata,,Q648,way
 "Pont Atlas",wikidata,,Q2869444,way
 "Rue de Bruxelles",wikidata,,Q239,way
+"Rue de Tilff",wikidata,,Q2721304,way
 ..,,,,way
 "Aire de Glain",,,,way
 "Al'Rodje Creû",,,,way
@@ -219,7 +220,6 @@ Coclisart,,,,way
 "Cour Laurant",,,,way
 "Cour Moreau",,,,way
 "Cour Poupier",,,,way
-"Cour Ralet",,,,way
 "Cour Roland",,,,way
 "Cour Saint-Antoine",,,,way
 "Cour Saint-Gilles",,,,way
@@ -319,6 +319,7 @@ Lavaniste-Voie,,,,way
 "Passerelle Mativa",,,,way
 "Passerelle Saucy",,,,way
 "Passerelle de la Principauté de Liège",,,,way
+"Passerelle des Reflets",,,,way
 "Pazé del Vingne des Beddines",,,,way
 "Place André Renard",,,,way
 "Place Andréa Jadoulle",,,,way
@@ -517,6 +518,7 @@ Rodgy-Thier,,,,way
 "Rue Albert Duesberg",,,,way
 "Rue Albert Mockel",,,,way
 "Rue Albert de Cuyck",,,,way
+"Rue Albert-Mockel",,,,way
 "Rue Alex Bouvy",,,,way
 "Rue Alfred Magis",,,,way
 "Rue Alfred Van Beneden",,,,way
@@ -1272,7 +1274,6 @@ Rodgy-Thier,,,,way
 "Rue de Stavelot",,,,way
 "Rue de Steppes",,,,way
 "Rue de Streupas",,,,way
-"Rue de Tilff",,,,way
 "Rue de Tilleur",,,,way
 "Rue de Trazegnies",,,,way
 "Rue de Turin",,,,way
@@ -1358,6 +1359,7 @@ Rodgy-Thier,,,,way
 "Rue de la Chartreuse",,,,way
 "Rue de la Chaudronnerie",,,,way
 "Rue de la Cité",,,,way
+"Rue de la Cité Radieuse",,,,way
 "Rue de la Clinique",,,,way
 "Rue de la Colline",,,,way
 "Rue de la Commune",,,,way
@@ -1690,6 +1692,7 @@ Rodgy-Thier,,,,way
 "Rue du Cheval Blanc",,,,way
 "Rue du Cimetière",,,,way
 "Rue du Clairbois",,,,way
+"Rue du Commandant Marchand",,,,way
 "Rue du Commandant Speesen",,,,way
 "Rue du Confluent",,,,way
 "Rue du Conseil",,,,way
@@ -1809,6 +1812,7 @@ Rodgy-Thier,,,,way
 "Ruelle Hierby",,,,way
 "Ruelle Paradis",,,,way
 "Ruelle Renard",,,,way
+"Ruelle Rolans",,,,way
 "Ruelle de l'Echauguette",,,,way
 "Ruelle de la Licorne",,,,way
 "Ruelle des Chats",,,,way
