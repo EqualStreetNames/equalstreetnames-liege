@@ -15,6 +15,7 @@ name,source,gender,wikidata,type
 "Allée Marcel Dehalu",,,,way
 "Allée Pillechoulle",,,,way
 "Allée Rohan-Chabot",,,,way
+"Allée Zoé Gatti de Gamond",,,,way
 "Allée de l'Absent",,,,way
 "Allée de l'Innovation",,,,way
 "Allée de la Cense Rouge",,,,way
@@ -239,7 +240,6 @@ Coclisart,,,,way
 "Drève des Aulnes",,,,way
 "Drève du Château",,,,way
 "En Bergerue",,,,way
-"En Féronstrée",,,,way
 "En Mi-La-Ville",,,,way
 "En Neuvice",,,,way
 "Entrée du Parc des Animaux",,,,way
@@ -249,6 +249,7 @@ Es-Lairesse,,,,way
 "Esplanade Albert 1er",,,,way
 "Esplanade Saint Léonard",,,,relation
 Favechamps,,,,way
+Féronstrée,,,,way
 "Galeria Regina",,,,way
 "Galerie de la Sauvenière",,,,way
 "Gallerie Cathédrale",,,,way
@@ -295,7 +296,6 @@ Jonruelle,,,,way
 "Large Voie",,,,way
 Lavaniste-Voie,,,,way
 "Le Cadran",,,,way
-"Le Carré",,,,relation
 "Mont Saint-Martin",,,,way
 "Montagne Sainte-Walburge",,,,way
 "Montée directe trail",,,,way
@@ -518,7 +518,6 @@ Rodgy-Thier,,,,way
 "Rue Albert Duesberg",,,,way
 "Rue Albert Mockel",,,,way
 "Rue Albert de Cuyck",,,,way
-"Rue Albert-Mockel",,,,way
 "Rue Alex Bouvy",,,,way
 "Rue Alfred Magis",,,,way
 "Rue Alfred Van Beneden",,,,way
@@ -1106,7 +1105,6 @@ Rodgy-Thier,,,,way
 "Rue Schlemmer",,,,way
 "Rue Schmerling",,,,way
 "Rue Sébastien Laruelle",,,,way
-"Rue Serrurier-Bovy",,,,way
 "Rue Servais Malaise",,,,relation
 "Rue Simon Burnet",,,,way
 "Rue Simon Radoux",,,,way
