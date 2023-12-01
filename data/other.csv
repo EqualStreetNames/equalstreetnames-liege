@@ -302,7 +302,6 @@ Lavaniste-Voie,,,,way
 "Parc Sauveur",,,,way
 "Parc d'Avroy",,,,way
 "Parc de la Boverie",,,,way
-"Parvis des Écoliers",,,,way
 "Passage Albert Van Den Berg",,,,way
 "Passage Boute-li-Cou",,,,way
 "Passage Charles Bury",,,,way
@@ -333,7 +332,6 @@ Lavaniste-Voie,,,,way
 "Place Delcour",,,,way
 "Place Émile Dupont",,,,way
 "Place Ferrer",,,,way
-"Place Gabriel",,,,way
 "Place Georges Ista",,,,way
 "Place Gilles Étienne",,,,way
 "Place Havart",,,,way
@@ -354,10 +352,10 @@ Lavaniste-Voie,,,,way
 "Place Pierre Clerdent",,,,relation
 "Place Saint Denis",,,,way
 "Place Saint Jacques",,,,way
-"Place Saint-Barthélemy",,,,relation+way
+"Place Saint-Barthélemy",,,,way
 "Place Saint-Christophe",,,,way
 "Place Saint-Étienne",,,,way
-"Place Saint-Lambert",,,,way
+"Place Saint-Lambert",,,,relation+way
 "Place Saint-Michel",,,,way
 "Place Saint-Nicolas",,,,way
 "Place Saint-Paul",,,,relation+way
@@ -384,7 +382,7 @@ Lavaniste-Voie,,,,way
 "Place de la Solidarité",,,,way
 "Place de la Vieille-Montagne",,,,way
 "Place des Abeilles",,,,way
-"Place des Arts",,,,way
+"Place des Arts",,,,relation+way
 "Place des Arzis",,,,way
 "Place des Béguinages",,,,way
 "Place des Bons Enfants",,,,way
@@ -758,7 +756,7 @@ Rodgy-Thier,,,,way
 "Rue Georges Antoine",,,,way
 "Rue Georges Clemenceau",,,,way
 "Rue Georges Rem",,,,way
-"Rue Georges Simenon",,,,relation
+"Rue Georges Simenon",,,,way
 "Rue Georges Thone",,,,way
 "Rue Gérardrie",,,,way
 "Rue Germinal",,,,way
@@ -1010,6 +1008,7 @@ Rodgy-Thier,,,,way
 "Rue Paul-Joseph Delcloche",,,,way
 "Rue Péclers",,,,way
 "Rue Pépin-le-Bref",,,,way
+"Rue Petite Bêche",,,,way
 "Rue Pétry",,,,way
 "Rue Pied Pont des Arches",,,,way
 "Rue Pied du Thier à Liège",,,,way
@@ -1612,7 +1611,7 @@ Rodgy-Thier,,,,way
 "Rue des Prébendiers",,,,way
 "Rue des Prémontrés",,,,way
 "Rue des Prés",,,,way
-"Rue des Près Saint-Denis",,,,way
+"Rue des Prés Saint-Denis",,,,way
 "Rue des Primeroses",,,,way
 "Rue des Primeurs",,,,way
 "Rue des Primevères",,,,way
