@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Chaussée Brunehault",wikidata,F,Q230639,way
 "Clos Reine Astrid",wikidata,F,Q230238,way
 "Place Reine Astrid",wikidata,F,Q230238,way
+"Avenue Blonden",wikidata,M,Q3141911,way
 "Avenue Georges Truffaut",wikidata,M,Q3103569,way
 "Boulevard Frère-Orban",wikidata,M,Q705791,way
 "Montagne de Bueren",wikidata,M,Q30223292,way
@@ -11,9 +12,9 @@ name,source,gender,wikidata,type
 "Place Théodore Gobert",wikidata,M,Q3526425,way
 "Pont Kennedy",wikidata,M,Q9696,way
 "Quai Orban",wikidata,M,Q705791,way
-"Quai Paul van Hoegaerden",wikidata,M,Q705791,way
-"Quai de Rome",wikidata,M,Q705791,way
+"Quai Paul van Hoegaerden",wikidata,M,Q2317823;Q705791,way
 "Rue Charles Magnette",wikidata,M,Q182752,way
+"Rue Gaspard Monge",wikidata,M,Q206832,way
 "Rue Henri Orban",wikidata,M,Q1917874,way
 "Rue Henri de Louvain",wikidata,M,Q261978,way
 "Rue Joseph Demoulin",wikidata,M,Q30141814,relation

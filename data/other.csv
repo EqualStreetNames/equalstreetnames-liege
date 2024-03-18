@@ -1,6 +1,7 @@
 name,source,gender,wikidata,type
 "Avenue de Lille",wikidata,,Q648,way
 "Pont Atlas",wikidata,,Q2869444,way
+"Quai de Rome",wikidata,,Q220,way
 "Rue de Bruxelles",wikidata,,Q239,way
 "Rue de Tilff",wikidata,,Q2721304,way
 ..,,,,way
@@ -39,7 +40,6 @@ name,source,gender,wikidata,type
 "Aux Piedroux",,,,way
 "Avenue Albert 1er",,,,way
 "Avenue Albert Mahiels",,,,way
-"Avenue Blonden",,,,way
 "Avenue Brigade Piron",,,,way
 "Avenue Cardinal Mercier",,,,way
 "Avenue Constantin de Gerlache",,,,way
@@ -155,6 +155,7 @@ name,source,gender,wikidata,type
 "Chemin de l'Auberge",,,,way
 "Chemin de l'Ecurie",,,,way
 "Chemin de l'Osier",,,,way
+"Chemin de l'étoile",,,,way
 "Chemin de la Botanique",,,,way
 "Chemin de la Citadelle",,,,way
 "Chemin de la Clepsydre",,,,way
@@ -175,6 +176,7 @@ name,source,gender,wikidata,type
 "Chemin du Bois",,,,way
 "Chemin du Casino",,,,way
 "Chemin du Facteur",,,,way
+"Chemin du Parson",,,,way
 "Chemin du Tilleul",,,,way
 "Chemin du Trèfle",,,,way
 "Chemin n° 3",,,,way
@@ -264,6 +266,7 @@ Féronstrée,,,,way
 "Impasse Derousseau",,,,way
 "Impasse Gérard",,,,way
 "Impasse Germay",,,,way
+"Impasse Graindor",,,,way
 "Impasse Guillaume",,,,way
 "Impasse Henvard",,,,way
 "Impasse Horion",,,,way
@@ -276,6 +279,7 @@ Féronstrée,,,,way
 "Impasse Thiernesse",,,,way
 "Impasse Venta",,,,way
 "Impasse Vieux-Pont-des-Arches",,,,way
+"Impasse Wilmotte",,,,way
 "Impasse d'Elmer",,,,way
 "Impasse de Vottem",,,,way
 "Impasse de l'Ange",,,,way
@@ -372,9 +376,10 @@ Lavaniste-Voie,,,,way
 "Place d'Elmer",,,,way
 "Place d'Italie",,,,way
 "Place de Bronckart",,,,way
+"Place de l'Opéra",,,,relation+way
 "Place de l'Ourthe",,,,way
 "Place de l'Yser",,,,way
-"Place de la Cathédrale",,,,relation+way
+"Place de la Cathédrale",,,,way
 "Place de la Libération",,,,way
 "Place de la Liberté",,,,way
 "Place de la République Française",,,,way
@@ -430,6 +435,7 @@ Lavaniste-Voie,,,,way
 "Pont de Fétinne",,,,way
 "Pont de Fragnée",,,,way
 "Pont de Huy",,,,way
+"Pont de Liège",,,,way
 "Pont de Longdoz",,,,way
 "Pont de Milsaucy",,,,way
 "Pont des Arches",,,,way
@@ -455,10 +461,8 @@ Publémont,,,,way
 "Quai Joseph Wauters",,,,way
 "Quai Marcellis",,,,way
 "Quai Mativa",,,,way
-"Quai Mickiels",,,,way
 "Quai Mozart",,,,way
 "Quai Roosevelt",,,,way
-"Quai Roosevelt insert",,,,way
 "Quai Saint-Léonard",,,,way
 "Quai Saint-Paul de Sinçay",,,,way
 "Quai Sainte-Barbe",,,,way
@@ -479,6 +483,7 @@ Publémont,,,,way
 "Quai des Vennes",,,,way
 "Quai du Bac",,,,way
 "Quai du Barbou",,,,way
+"Quai du Bassin",,,,way
 "Quai du Condroz",,,,way
 "Quai du Halage",,,,way
 "Quai du Roi Albert",,,,way
@@ -964,6 +969,7 @@ Rodgy-Thier,,,,way
 "Rue Méaroulle",,,,way
 "Rue Mère Dieu",,,,way
 "Rue Michel Moutschen",,,,way
+"Rue Michiels",,,,way
 "Rue Mississippi",,,,way
 "Rue Molinvaux",,,,way
 "Rue Montgomery",,,,way
@@ -1192,7 +1198,7 @@ Rodgy-Thier,,,,way
 "Rue d'Angleur",,,,way
 "Rue d'Ans",,,,relation
 "Rue d'Anthisnes",,,,way
-"Rue d'Awans",,,,relation
+"Rue d'Awans",,,,way
 "Rue d'Elmer",,,,way
 "Rue d'Embourg",,,,way
 "Rue d'Esch-Sur-Alzette",,,,way
@@ -1429,8 +1435,8 @@ Rodgy-Thier,,,,way
 "Rue de la Vaussale",,,,way
 "Rue de la Veine Sothuy",,,,way
 "Rue de la Vesdre",,,,way
+"Rue de la Vieille Montagne",,,,way
 "Rue de la Vieille-Tour",,,,way
-"Rue de la Vielle Montagne",,,,way
 "Rue de la Violette",,,,way
 "Rue de la Wache",,,,way
 "Rue de la Xhavée",,,,way
@@ -1458,6 +1464,7 @@ Rodgy-Thier,,,,way
 "Rue des Beaux-Arts",,,,way
 "Rue des Bedennes",,,,way
 "Rue des Bégards",,,,way
+"Rue des Bénédictines",,,,way
 "Rue des Bergers",,,,way
 "Rue des Blés",,,,way
 "Rue des Bluets",,,,way
@@ -1776,6 +1783,7 @@ Rodgy-Thier,,,,way
 "Rue du Ry",,,,way
 "Rue du Sart Tilman",,,,way
 "Rue du Sart-Lohé",,,,way
+"Rue du Sart-Lohê",,,,way
 "Rue du Sart-Moray",,,,way
 "Rue du Sergent Merx",,,,way
 "Rue du Snapeux",,,,way
@@ -1850,18 +1858,22 @@ Rodgy-Thier,,,,way
 "Thier des Critchions",,,,way
 "Thier des Mohets",,,,way
 "Thier des Vignobles",,,,way
+"Thier du Bac",,,,way
 "Thier du Bailly",,,,way
 "Thier du Bouhay",,,,way
 "Thier du Goreu",,,,way
 "Traverse des Architectes",,,,way
+"Tunnel de Kinkempois",,,,way
 "Tunnel de la Chartreuse",,,,way
 "Tunnel du Benelux",,,,way
+"Tunnel sous la Derivation",,,,way
+"Tunnel sous la Dérivation",,,,way
 "Verte Voie",,,,way
 "Vieille Voie de Bellaire",,,,way
 "Vieille Voie de Tongres",,,,way
 "Vieux Chemin de Fléron",,,,way
 "Vieux Chemin de Jupille",,,,way
-"Vinâve d'Île",,,,relation+way
+"Vinâve d'Île",,,,way
 "Voie Mélotte",,,,way
 "Voie de détresse",,,,way
 "Voie de l'Ardenne",,,,way
