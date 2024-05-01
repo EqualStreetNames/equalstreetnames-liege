@@ -1,5 +1,6 @@
 name,source,gender,wikidata,type
 "Avenue de Lille",wikidata,,Q648,way
+Outremeuse,wikidata,,Q2190711,relation
 "Pont Atlas",wikidata,,Q2869444,way
 "Quai de Rome",wikidata,,Q220,way
 "Rue de Bruxelles",wikidata,,Q239,way
@@ -38,6 +39,7 @@ name,source,gender,wikidata,type
 "Au Palô",,,,way
 "Au Pèrî",,,,way
 "Au Soleil",,,,way
+"Autoroute du Soleil",,,,way
 "Aux Piedroux",,,,way
 "Avenue Albert 1er",,,,way
 "Avenue Albert Mahiels",,,,way
@@ -57,7 +59,6 @@ name,source,gender,wikidata,type
 "Avenue Joseh Prevers",,,,way
 "Avenue Joseph Merlot",,,,way
 "Avenue Joseph Prévers",,,,way
-"Avenue Maurice Destenay",,,,way
 "Avenue Olympe Gilbart",,,,way
 "Avenue Pré-Aily",,,,way
 "Avenue Reine Élisabeth",,,,way
@@ -217,6 +218,7 @@ Chertal,,,,relation
 "Clos du Vert Champs",,,,way
 "Clos du Vieux Bure",,,,way
 Coclisart,,,,way
+"Cour Cession",,,,way
 "Cour Destockay",,,,way
 "Cour Goffinet",,,,way
 "Cour Hénaux",,,,way
@@ -397,7 +399,7 @@ Lavaniste-Voie,,,,way
 "Place des Carmes",,,,way
 "Place des Combattants",,,,way
 "Place des Conduites d'Eau",,,,way
-"Place des Déportés",,,,way
+"Place des Déportés",,,,relation+way
 "Place des Franchises",,,,way
 "Place des Fusillés",,,,way
 "Place des Guillemins",,,,way
@@ -464,7 +466,6 @@ Publémont,,,,way
 "Quai Marcellis",,,,way
 "Quai Mativa",,,,way
 "Quai Mozart",,,,way
-"Quai Roosevelt",,,,way
 "Quai Saint-Léonard",,,,way
 "Quai Saint-Paul de Sinçay",,,,way
 "Quai Sainte-Barbe",,,,way
@@ -529,7 +530,6 @@ Rodgy-Thier,,,,way
 "Rue Alphonse Tilkin",,,,way
 "Rue Ambiorix",,,,way
 "Rue André Delchef",,,,way
-"Rue André Dumont",,,,way
 "Rue André Renard",,,,way
 "Rue André Winands",,,,way
 "Rue Ansiaux",,,,way
@@ -680,13 +680,12 @@ Rodgy-Thier,,,,way
 "Rue Édouard Marcotty",,,,way
 "Rue Édouard Remouchamps",,,,way
 "Rue Édouard Wacken",,,,way
-"Rue Elise Grandprez",,,,way
 "Rue Élise Grandprez",,,,way
 "Rue Émile Collard",,,,way
 "Rue Émile Gérard",,,,way
 "Rue Emile Vandervelde",,,,way
 "Rue Émile Vandervelde",,,,way
-"Rue Emile Vandervelde - Rue Sainte-Marguerite",,,,way
+"Rue Émile Vandervelde - Rue Sainte-Marguerite",,,,way
 "Rue Émile Verhaeren",,,,way
 "Rue En-Glain",,,,way
 "Rue Éracle",,,,way
@@ -782,7 +781,6 @@ Rodgy-Thier,,,,way
 "Rue Grandgagnage",,,,way
 "Rue Gravioule",,,,way
 "Rue Grégoire",,,,way
-"Rue Grétry",,,,way
 "Rue Grignette",,,,way
 "Rue Guillaume Marie",,,,way
 "Rue Gustave Thiriart",,,,way
@@ -1486,7 +1484,6 @@ Rodgy-Thier,,,,way
 "Rue des Cenelles",,,,way
 "Rue des Chaineux",,,,way
 "Rue des Chalets",,,,way
-"Rue des Châlets",,,,way
 "Rue des Champs",,,,way
 "Rue des Chapelains",,,,way
 "Rue des Charbonnages",,,,way
@@ -1837,6 +1834,7 @@ Rodgy-Thier,,,,way
 "Sentier des Meuniers",,,,way
 "Sentier des Trieuses",,,,way
 "Sentier des Trois Chemins",,,,way
+"Sentier des Trois Fontaines",,,,way
 "Sentier des Waides",,,,way
 "Sentier des vaches",,,,way
 "Sentier du Château",,,,way
@@ -1868,7 +1866,6 @@ Rodgy-Thier,,,,way
 "Tunnel de Kinkempois",,,,way
 "Tunnel de la Chartreuse",,,,way
 "Tunnel du Benelux",,,,way
-"Tunnel sous la Derivation",,,,way
 "Tunnel sous la Dérivation",,,,way
 "Verte Voie",,,,way
 "Vieille Voie de Bellaire",,,,way
@@ -1888,6 +1885,5 @@ Rodgy-Thier,,,,way
 "Waide des Dames",,,,way
 "Zone de manoeuvre Rue  du Général Modard",,,,way
 "chemin du Champ des Oiseaux",,,,way
-"rue Hocheporte",,,,way
 "rue René Demoitelle",,,,way
 "rue de tilff",,,,way
