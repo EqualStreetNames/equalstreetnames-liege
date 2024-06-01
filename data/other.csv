@@ -5,7 +5,7 @@ Outremeuse,wikidata,,Q2190711,relation
 "Quai de Rome",wikidata,,Q220,way
 "Rue de Bruxelles",wikidata,,Q239,way
 "Rue de Tilff",wikidata,,Q2721304,way
-..,,,,way
+"Rue de l'Île Monsin",wikidata,,Q21765941,way
 "Aire de Glain",,,,way
 "Al'Rodje Creû",,,,way
 "Allée Albert Puters",,,,way
@@ -156,9 +156,11 @@ Outremeuse,wikidata,,Q2190711,relation
 "Chemin de Rabosée",,,,way
 "Chemin de l'Auberge",,,,way
 "Chemin de l'Ecurie",,,,way
+"Chemin de l'Équerre",,,,way
 "Chemin de l'Osier",,,,way
 "Chemin de l'étoile",,,,way
 "Chemin de la Botanique",,,,way
+"Chemin de la Canopée",,,,way
 "Chemin de la Citadelle",,,,way
 "Chemin de la Clepsydre",,,,way
 "Chemin de la Curiosité",,,,way
@@ -169,6 +171,7 @@ Outremeuse,wikidata,,Q2190711,relation
 "Chemin des Cèdres",,,,way
 "Chemin des Charbonniers",,,,way
 "Chemin des Chevreuils",,,,way
+"Chemin des Confluences",,,,way
 "Chemin des Douze Bonniers - Voie de chez Nosse",,,,way
 "Chemin des Potagers",,,,way
 "Chemin des Puisatiers",,,,way
@@ -179,6 +182,7 @@ Outremeuse,wikidata,,Q2190711,relation
 "Chemin du Casino",,,,way
 "Chemin du Facteur",,,,way
 "Chemin du Parson",,,,way
+"Chemin du Regain",,,,way
 "Chemin du Tilleul",,,,way
 "Chemin du Trèfle",,,,way
 "Chemin n° 3",,,,way
@@ -321,10 +325,8 @@ Lavaniste-Voie,,,,way
 "Passage du Château d'eau",,,,way
 "Passage du Laitier",,,,way
 "Passage du vieux sart",,,,way
-"Passerelle La Belle Liégeoise",,,,way
 "Passerelle Léon Tchiniss",,,,way
 "Passerelle Mativa",,,,way
-"Passerelle Saucy",,,,way
 "Passerelle de la Principauté de Liège",,,,way
 "Passerelle des Reflets",,,,way
 "Pazé del Vingne des Beddines",,,,way
@@ -439,7 +441,6 @@ Lavaniste-Voie,,,,way
 "Pont de Fétinne",,,,way
 "Pont de Fragnée",,,,way
 "Pont de Huy",,,,way
-"Pont de Liège",,,,way
 "Pont de Longdoz",,,,way
 "Pont de Milsaucy",,,,way
 "Pont des Arches",,,,way
@@ -454,6 +455,7 @@ Lavaniste-Voie,,,,way
 "Pont du Lhonneux",,,,way
 "Pont du Roi Albert",,,,way
 Potiérue,,,,way
+"Promenade des Jardins d'Eau",,,,way
 Publémont,,,,way
 "Quai Banning",,,,way
 "Quai Bonaparte",,,,way
@@ -593,6 +595,7 @@ Rodgy-Thier,,,,way
 "Rue Branche Planchard",,,,way
 "Rue Burenville",,,,way
 "Rue Burton",,,,way
+"Rue Califice",,,,way
 "Rue Camille Lemonnier",,,,way
 "Rue Canal de l'Ourthe",,,,way
 "Rue Capitaine",,,,way
@@ -629,7 +632,6 @@ Rodgy-Thier,,,,way
 "Rue Commandant Duchesne",,,,way
 "Rue Commandant Naessens",,,,way
 "Rue Constantin Le Paige",,,,way
-"Rue Constantin le Paige",,,,way
 "Rue Coqraimont",,,,way
 "Rue Corémolin",,,,way
 "Rue Côte d'Or",,,,way
@@ -1330,7 +1332,6 @@ Rodgy-Thier,,,,way
 "Rue de l'Hôtel Communal",,,,way
 "Rue de l'Hôtel de Ville",,,,way
 "Rue de l'Île Coune",,,,way
-"Rue de l'Île Monsin",,,,way
 "Rue de l'Île aux Corbeaux",,,,way
 "Rue de l'Intendance",,,,way
 "Rue de l'Oasis",,,,way
@@ -1863,7 +1864,6 @@ Rodgy-Thier,,,,way
 "Thier du Bouhay",,,,way
 "Thier du Goreu",,,,way
 "Traverse des Architectes",,,,way
-"Tunnel de Kinkempois",,,,way
 "Tunnel de la Chartreuse",,,,way
 "Tunnel du Benelux",,,,way
 "Tunnel sous la Dérivation",,,,way
@@ -1873,9 +1873,17 @@ Rodgy-Thier,,,,way
 "Vieux Chemin de Fléron",,,,way
 "Vieux Chemin de Jupille",,,,way
 "Vinâve d'Île",,,,way
+"Voie Amélie Hamaïde",,,,way
+"Voie Edgar Scauflaire",,,,way
+"Voie Gisèle Halimi",,,,way
+"Voie Marguerite Coppin",,,,way
 "Voie Mélotte",,,,way
-"Voie de détresse",,,,way
+"Voie Thérèse Minette",,,,way
+"Voie Victoire Cappe",,,,way
+"Voie de l'Ardence",,,,way
 "Voie de l'Ardenne",,,,way
+"Voie de l'Audace",,,,way
+"Voie de l'Univers",,,,way
 "Voie du Herdier",,,,way
 "Voie du Sart-Tilman",,,,way
 "Voisinage Jeanne Rombaut",,,,way
