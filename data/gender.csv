@@ -1,27 +1,68 @@
 name,source,gender,wikidata,type
+"Allée Charlotte Hauglustaine",wikidata,F,Q62019715,way
+"Allée Maria Goeppert",wikidata,F,Q57100,way
+"Allée Zoé Gatti de Gamond",wikidata,F,Q3576211,way
 "Avenue Reine Astrid",wikidata,F,Q230238,way
 "Chaussée Brunehault",wikidata,F,Q230639,way
 "Clos Reine Astrid",wikidata,F,Q230238,way
+"Esplanade Jeanne Rademackers",wikidata,F,Q87391174,way
+"Esplanade Simone Veil",wikidata,F,Q298180,way
+"Place Émilie Noulet",wikidata,F,Q1337342,way
 "Place Reine Astrid",wikidata,F,Q230238,way
+"Rue Marie Defrère",wikidata,F,Q105808519,way
 "Autoroute Roi Baudouin",wikidata,M,Q12976,way
+"Avenue Albert 1er",wikidata,M,Q55008046,way
 "Avenue Blonden",wikidata,M,Q3141911,way
+"Avenue Emile Digneffe",wikidata,M,Q465931,way
 "Avenue Georges Truffaut",wikidata,M,Q3103569,way
 "Avenue Maurice Destenay",wikidata,M,Q466229,way
+"Avenue Rogier",wikidata,M,Q468109,way
 "Boulevard Frère-Orban",wikidata,M,Q705791,way
+"Esplanade Albert 1er",wikidata,M,Q55008046,way
 "Montagne de Bueren",wikidata,M,Q30223292,way
 "Place Communale",wikidata,M,Q261978,way
+"Place Delcour",wikidata,M,Q1994276,way
 "Place Louis de Geer",wikidata,M,Q1871628,way
 "Place Théodore Gobert",wikidata,M,Q3526425,way
 "Pont Kennedy",wikidata,M,Q9696,way
+"Pont du Roi Albert",wikidata,M,Q55008046,way
+"Quai Godefroid Kurth",wikidata,M,Q710649,way
 "Quai Orban",wikidata,M,Q705791,way
 "Quai Paul van Hoegaerden",wikidata,M,Q2317823;Q705791,way
 "Quai Roosevelt",wikidata,M,Q8007,way
+"Rue Adelin et Jules Husson",wikidata,M,Q2824205,way
+"Rue Albert de Cuyck",wikidata,M,Q972259,way
+"Rue Ambiorix",wikidata,M,Q12847,way
 "Rue André Dumont",wikidata,M,Q519775,way
+"Rue Auguste Buisseret",wikidata,M,Q551978,way
+"Rue César Franck",wikidata,M,Q50187,way
 "Rue Charles Magnette",wikidata,M,Q182752,way
+"Rue Ernest Solvay",wikidata,M,Q311665,way
+"Rue Etienne Soubre",wikidata,M,Q290089,way
+"Rue Ferdinand Campus",wikidata,M,Q100698485,way
 "Rue Gaspard Monge",wikidata,M,Q206832,way
+"Rue Général de Gaulle",wikidata,M,Q2042,way
+"Rue Georges Antoine",wikidata,M,Q3102191,way
+"Rue Georges Simenon",wikidata,M,Q128790,way
+"Rue Georges Thone",wikidata,M,Q3103537,way
+"Rue Grandgagnage",wikidata,M,Q1064591,way
 "Rue Grétry",wikidata,M,Q210962,way
+"Rue Hector Chainaye",wikidata,M,Q3129224,way
 "Rue Henri Orban",wikidata,M,Q1917874,way
 "Rue Henri de Louvain",wikidata,M,Q261978,way
+"Rue Jean Allard",wikidata,M,Q2230429,way
+"Rue Jean Delvoye",wikidata,M,Q4121546,way
+"Rue Jean Gol",wikidata,M,Q466451,way
+"Rue Jean d'Outremeuse",wikidata,M,Q1685972,way
 "Rue Joseph Demoulin",wikidata,M,Q30141814,relation
+"Rue Joseph Jaspar",wikidata,M,Q3185129,way
+"Rue Louis Abry",wikidata,M,Q3260966,way
+"Rue Louis Jamme",wikidata,M,Q3262304,way
+"Rue Marcel Thiry",wikidata,M,Q2146661,way
 "Rue Martin Luther King",wikidata,M,Q8027,way
+"Rue Mathieu Polain",wikidata,M,Q3298839,way
+"Rue Monulphe",wikidata,M,Q2319824,way
+"Rue Raikem",wikidata,M,Q2129488,way
+"Rue Salvador Allende",wikidata,M,Q440,way
+"Rue Wazon",wikidata,M,Q129538,way
 "Rue Winston Churchill",wikidata,M,Q8016,way

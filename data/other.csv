@@ -1,24 +1,39 @@
 name,source,gender,wikidata,type
+"Avenue d'Aix-la-Chapelle",wikidata,,Q1017,way
+"Avenue de Cologne",wikidata,,Q365,way
 "Avenue de Lille",wikidata,,Q648,way
 Outremeuse,wikidata,,Q2190711,relation
 "Pont Atlas",wikidata,,Q2869444,way
+"Pont d'Amercœur",wikidata,,Q2842792,way
 "Quai de Rome",wikidata,,Q220,way
+"Quai de l'Ourthe",wikidata,,Q160698,way
+"Quai de la Dérivation",wikidata,,Q3044985,way
+"Quai des Vennes",wikidata,,Q3555527,way
+"Rue Ernest de Bavière",wikidata,,Q123507991,way
+"Rue d'Alleur",wikidata,,Q2603883,way
+"Rue d'Angleur",wikidata,,Q540710,way
+"Rue d'Anthisnes",wikidata,,Q572472,way
+"Rue d'Awans",wikidata,,Q680564,way
 "Rue de Bruxelles",wikidata,,Q239,way
 "Rue de Tilff",wikidata,,Q2721304,way
+"Rue de l'Amblève",wikidata,,Q461361,way
 "Rue de l'Île Monsin",wikidata,,Q21765941,way
+"Rue de l'Ourthe",wikidata,,Q160698,way
+"Rue des Grignoux",wikidata,,Q18015206,way
+"Rue des Guillemins",wikidata,,Q2004943,way
+"Rue des Vingt-Deux",wikidata,,Q24928891,way
 "Aire de Glain",,,,way
 "Al'Rodje Creû",,,,way
 "Allée Albert Puters",,,,way
 "Allée Albert Régibeau",,,,way
 "Allée Bietîmé",,,,way
-"Allée Charlotte Hauglustaine",,,,way
 "Allée Edgard D'Hont",,,,way
 "Allée Frédéric Chopin",,,,way
 "Allée Grande Hollande",,,,way
 "Allée Marcel Dehalu",,,,way
 "Allée Pillechoulle",,,,way
+"Allée René Greisch",,,,way
 "Allée Rohan-Chabot",,,,way
-"Allée Zoé Gatti de Gamond",,,,way
 "Allée de l'Absent",,,,way
 "Allée de l'Innovation",,,,way
 "Allée de la Cense Rouge",,,,way
@@ -41,13 +56,11 @@ Outremeuse,wikidata,,Q2190711,relation
 "Au Soleil",,,,way
 "Autoroute du Soleil",,,,way
 "Aux Piedroux",,,,way
-"Avenue Albert 1er",,,,way
 "Avenue Albert Mahiels",,,,way
 "Avenue Brigade Piron",,,,way
 "Avenue Cardinal Mercier",,,,way
 "Avenue Constantin de Gerlache",,,,way
 "Avenue Dieudonné Lambrecht",,,,way
-"Avenue Emile Digneffe",,,,way
 "Avenue Emile Jennissen",,,,way
 "Avenue Francisco Ferrer",,,,way
 "Avenue Freddy Terwagne",,,,way
@@ -62,13 +75,10 @@ Outremeuse,wikidata,,Q2190711,relation
 "Avenue Olympe Gilbart",,,,way
 "Avenue Pré-Aily",,,,way
 "Avenue Reine Élisabeth",,,,way
-"Avenue Rogier",,,,way
 "Avenue Sluysmans",,,,way
 "Avenue Victor Hugo",,,,way
-"Avenue d'Aix-la-Chapelle",,,,way
 "Avenue de Beaumont",,,,way
 "Avenue de Cointe",,,,way
-"Avenue de Cologne",,,,way
 "Avenue de Fontainebleau",,,,way
 "Avenue de Jupille",,,,way
 "Avenue de Juprelle",,,,way
@@ -238,7 +248,7 @@ Coclisart,,,,way
 "Cour des Mineurs",,,,way
 "Cour des Minimes",,,,way
 "Cour du Rivage",,,,way
-"Degrés Izoard",,,,way
+"Degrés Jacques Izoard",,,,way
 "Degrés Saint-Pierre",,,,way
 "Degrés des Artisans",,,,way
 "Degrès des Dentellières",,,,way
@@ -253,11 +263,10 @@ Coclisart,,,,way
 "En Neuvice",,,,way
 "Entrée du Parc des Animaux",,,,way
 Es-Lairesse,,,,way
+"Escalier Matriche",,,,way
 "Escaliers des Bégards",,,,way
 "Espace Tivoli",,,,relation
-"Esplanade Albert 1er",,,,way
 "Esplanade Saint Léonard",,,,relation
-"Esplanade Simone Veil",,,,way
 Favechamps,,,,way
 Féronstrée,,,,way
 "Galeria Regina",,,,way
@@ -283,7 +292,6 @@ Féronstrée,,,,way
 "Impasse Magnée",,,,way
 "Impasse Petite Neuvice",,,,way
 "Impasse Pissaine",,,,way
-"Impasse Simonis",,,,way
 "Impasse Thiernesse",,,,way
 "Impasse Venta",,,,way
 "Impasse Vieux-Pont-des-Arches",,,,way
@@ -307,10 +315,10 @@ Jonruelle,,,,way
 "La Batte",,,,way
 "Large Voie",,,,way
 Lavaniste-Voie,,,,way
-"Le Cadran",,,,way
 "Mont Saint-Martin",,,,way
 "Montagne Sainte-Walburge",,,,way
 "Montée directe trail",,,,way
+"New Space access",,,,way
 "Parc Sauveur",,,,way
 "Parc d'Avroy",,,,way
 "Parc de la Boverie",,,,way
@@ -328,7 +336,6 @@ Lavaniste-Voie,,,,way
 "Passerelle Léon Tchiniss",,,,way
 "Passerelle Mativa",,,,way
 "Passerelle de la Principauté de Liège",,,,way
-"Passerelle des Reflets",,,,way
 "Pazé del Vingne des Beddines",,,,way
 "Place André Renard",,,,way
 "Place Andréa Jadoulle",,,,way
@@ -339,9 +346,9 @@ Lavaniste-Voie,,,,way
 "Place Coronmeuse",,,,way
 "Place Crève-Cœur",,,,way
 "Place De Brouckère",,,,way
-"Place Delcour",,,,way
 "Place Émile Dupont",,,,way
 "Place Ferrer",,,,way
+"Place Françoise Héritier",,,,relation
 "Place Georges Ista",,,,way
 "Place Gilles Étienne",,,,way
 "Place Havart",,,,way
@@ -360,6 +367,7 @@ Lavaniste-Voie,,,,way
 "Place Nicolas Bernimolin",,,,way
 "Place Notger",,,,way
 "Place Pierre Clerdent",,,,relation
+"Place Rosa Parks",,,,way
 "Place Saint Denis",,,,way
 "Place Saint Jacques",,,,way
 "Place Saint-Barthélemy",,,,way
@@ -427,13 +435,13 @@ Lavaniste-Voie,,,,way
 "Place du Vieux-Puits",,,,way
 "Place du Vingt Août",,,,way
 "Plateau du Bouhay",,,,way
+"Pont Barrage de Monsin",,,,way
 "Pont Biais",,,,way
 "Pont Gaston",,,,way
 "Pont Gramme",,,,way
 "Pont Maghin",,,,way
 "Pont Marcotty",,,,way
 "Pont Marexhe",,,,way
-"Pont d'Amercœur",,,,way
 "Pont d'Île",,,,way
 "Pont d'Ougrée",,,,way
 "Pont de Belle-Île",,,,way
@@ -453,7 +461,6 @@ Lavaniste-Voie,,,,way
 "Pont du Bouhay",,,,way
 "Pont du Diable",,,,way
 "Pont du Lhonneux",,,,way
-"Pont du Roi Albert",,,,way
 Potiérue,,,,way
 "Promenade des Jardins d'Eau",,,,way
 Publémont,,,,way
@@ -462,7 +469,6 @@ Publémont,,,,way
 "Quai Churchill",,,,way
 "Quai Édouard Van Beneden",,,,way
 "Quai Gloesener",,,,way
-"Quai Godefroid Kurth",,,,way
 "Quai Henri Borguet",,,,way
 "Quai Joseph Wauters",,,,way
 "Quai Marcellis",,,,way
@@ -478,14 +484,11 @@ Publémont,,,,way
 "Quai de Longdoz",,,,way
 "Quai de Maestricht",,,,way
 "Quai de Wallonie",,,,way
-"Quai de l'Ourthe",,,,way
 "Quai de la Boverie",,,,way
-"Quai de la Dérivation",,,,way
 "Quai de la Goffe",,,,way
 "Quai de la Ribuée",,,,way
 "Quai des Ardennes",,,,way
 "Quai des Tanneurs",,,,way
-"Quai des Vennes",,,,way
 "Quai du Bac",,,,way
 "Quai du Barbou",,,,way
 "Quai du Bassin",,,,way
@@ -513,24 +516,21 @@ Rodgy-Thier,,,,way
 "Route de Légipont - Rue Chefneux",,,,way
 "Route de Montabay",,,,way
 "Route du Condroz",,,,way
-"Rue ""Sans Nom""",,,,way
 "Rue A Matche",,,,way
 "Rue Achille Lebeau",,,,way
-"Rue Adèlaïde Coudère",,,,way
-"Rue Adelin et Jules Husson",,,,way
+"Rue Adélaïde Coudère",,,,way
 "Rue Adolphe Borgnet",,,,way
 "Rue Adolphe Maréchal",,,,way
+"Rue Adolphe Renson",,,,way
 "Rue Adrien de Witte",,,,way
 "Rue Agimont",,,,way
 "Rue Alban Poulet",,,,way
 "Rue Albert Duesberg",,,,way
 "Rue Albert Mockel",,,,way
-"Rue Albert de Cuyck",,,,way
 "Rue Alex Bouvy",,,,way
 "Rue Alfred Magis",,,,way
 "Rue Alfred Van Beneden",,,,way
 "Rue Alphonse Tilkin",,,,way
-"Rue Ambiorix",,,,way
 "Rue André Delchef",,,,way
 "Rue André Renard",,,,way
 "Rue André Winands",,,,way
@@ -540,7 +540,6 @@ Rodgy-Thier,,,,way
 "Rue Armand Stévart",,,,way
 "Rue Armand Stouls",,,,way
 "Rue Artus-Bris",,,,way
-"Rue Auguste Buisseret",,,,way
 "Rue Auguste Donnay",,,,way
 "Rue Auguste Doutrepont",,,,way
 "Rue Auguste Hock",,,,way
@@ -602,7 +601,6 @@ Rodgy-Thier,,,,way
 "Rue Cardinal Cardijn",,,,way
 "Rue Carlier",,,,way
 "Rue Célestin Demblon",,,,way
-"Rue César Franck",,,,way
 "Rue César de Paepe",,,,way
 "Rue Chaffette",,,,way
 "Rue Chafnay",,,,way
@@ -659,6 +657,7 @@ Rodgy-Thier,,,,way
 "Rue Demolin",,,,way
 "Rue Denis Lecocq",,,,way
 "Rue Denis Sotiau",,,,way
+"Rue Deprez-Houdret",,,,way
 "Rue Derrière Coronmeuse",,,,way
 "Rue Derrière le Château",,,,way
 "Rue Descardre",,,,way
@@ -685,7 +684,6 @@ Rodgy-Thier,,,,way
 "Rue Élise Grandprez",,,,way
 "Rue Émile Collard",,,,way
 "Rue Émile Gérard",,,,way
-"Rue Emile Vandervelde",,,,way
 "Rue Émile Vandervelde",,,,way
 "Rue Émile Vandervelde - Rue Sainte-Marguerite",,,,way
 "Rue Émile Verhaeren",,,,way
@@ -693,9 +691,6 @@ Rodgy-Thier,,,,way
 "Rue Éracle",,,,way
 "Rue Ernest Malvoz",,,,way
 "Rue Ernest Marneffe",,,,way
-"Rue Ernest Solvay",,,,way
-"Rue Ernest de Bavière",,,,way
-"Rue Etienne Soubre",,,,way
 "Rue Eugène Houdret",,,,way
 "Rue Eugène Lambinon",,,,way
 "Rue Eugène Renette",,,,way
@@ -759,13 +754,9 @@ Rodgy-Thier,,,,way
 "Rue Gaston-Grégoire",,,,way
 "Rue Gaucet",,,,way
 "Rue Général Jacques de Dixmude",,,,way
-"Rue Général de Gaulle",,,,way
 "Rue Genot",,,,way
-"Rue Georges Antoine",,,,way
 "Rue Georges Clemenceau",,,,way
 "Rue Georges Rem",,,,way
-"Rue Georges Simenon",,,,way
-"Rue Georges Thone",,,,way
 "Rue Gérardrie",,,,way
 "Rue Germinal",,,,way
 "Rue Gilbert Bisqueret",,,,way
@@ -780,7 +771,6 @@ Rodgy-Thier,,,,way
 "Rue Grand d'Jan",,,,way
 "Rue Grande Tour",,,,way
 "Rue Grande-Bêche",,,,way
-"Rue Grandgagnage",,,,way
 "Rue Gravioule",,,,way
 "Rue Grégoire",,,,way
 "Rue Grignette",,,,way
@@ -798,7 +788,6 @@ Rodgy-Thier,,,,way
 "Rue Hauzeur",,,,way
 "Rue Hayeneux",,,,way
 "Rue Hazinelle",,,,way
-"Rue Hector Chainaye",,,,way
 "Rue Hector Denis",,,,way
 "Rue Heid de Maël",,,,way
 "Rue Hélène van Heule",,,,way
@@ -838,12 +827,10 @@ Rodgy-Thier,,,,way
 "Rue Jacquet",,,,way
 "Rue Jambe de Bois",,,,way
 "Rue Jamin Saint-Roch",,,,way
-"Rue Jean Allard",,,,way
 "Rue Jean Bosly",,,,way
 "Rue Jean Bury",,,,way
-"Rue Jean Delvoye",,,,way
 "Rue Jean Dister",,,,way
-"Rue Jean Gol",,,,way
+"Rue Jean Etienne",,,,way
 "Rue Jean Haust",,,,way
 "Rue Jean Hermesse",,,,way
 "Rue Jean Jaurès",,,,way
@@ -856,10 +843,8 @@ Rodgy-Thier,,,,way
 "Rue Jean Somers",,,,way
 "Rue Jean Volders",,,,way
 "Rue Jean Warroquiers",,,,way
-"Rue Jean d'Outremeuse",,,,way
 "Rue Jean-Baptiste Cools",,,,way
 "Rue Jean-Baptiste Juppin",,,,way
-"Rue Jean-Etienne",,,,way
 "Rue Jean-Mathieu Nisen",,,,way
 "Rue Jeanne Renotte",,,,way
 "Rue Jobette",,,,way
@@ -876,7 +861,6 @@ Rodgy-Thier,,,,way
 "Rue Joseph Halkin",,,,way
 "Rue Joseph Henrion",,,,way
 "Rue Joseph Hodeige",,,,way
-"Rue Joseph Jaspar",,,,way
 "Rue Joseph Joset",,,,way
 "Rue Joseph Lambremont",,,,way
 "Rue Joseph Lemaire",,,,way
@@ -887,8 +871,8 @@ Rodgy-Thier,,,,way
 "Rue Joseph Rulot",,,,way
 "Rue Joseph Truffaut",,,,way
 "Rue Joseph Vrindts",,,,way
+"Rue Joseph Wauters",,,,way
 "Rue Joseph Willem",,,,way
-"Rue Joseph Wouters",,,,way
 "Rue Jules Boursier",,,,way
 "Rue Jules Claskin",,,,way
 "Rue Jules Cralle",,,,way
@@ -933,11 +917,9 @@ Rodgy-Thier,,,,way
 "Rue Lohest",,,,way
 "Rue Longue",,,,way
 "Rue Lonhienne",,,,way
-"Rue Louis Abry",,,,way
 "Rue Louis Bonfond",,,,way
 "Rue Louis Boumal",,,,way
 "Rue Louis Fraigneux",,,,way
-"Rue Louis Jamme",,,,way
 "Rue Louis Pasteur",,,,way
 "Rue Louis Willems",,,,way
 "Rue Louise Derache",,,,way
@@ -952,16 +934,13 @@ Rodgy-Thier,,,,way
 "Rue Maghin",,,,way
 "Rue Malvaux",,,,way
 "Rue Mandeville",,,,way
-"Rue Marcel Thiry",,,,way
 "Rue Marcel-Remy",,,,way
 "Rue Marçon",,,,way
 "Rue Maréchal Foch",,,,way
 "Rue Marengo",,,,way
-"Rue Marie Curie",,,,way
 "Rue Marie-Louise-Naveau",,,,way
 "Rue Mathieu Bodson",,,,way
 "Rue Mathieu Laensbergh",,,,way
-"Rue Mathieu Polain",,,,way
 "Rue Matrognard",,,,way
 "Rue Matteoti",,,,way
 "Rue Maurice Wilmotte",,,,way
@@ -975,7 +954,6 @@ Rodgy-Thier,,,,way
 "Rue Mississippi",,,,way
 "Rue Molinvaux",,,,way
 "Rue Montgomery",,,,way
-"Rue Monulphe",,,,way
 "Rue Moray",,,,way
 "Rue Morinval",,,,way
 "Rue Mosselman",,,,way
@@ -987,7 +965,7 @@ Rodgy-Thier,,,,way
 "Rue Naniot",,,,way
 "Rue Natalis",,,,way
 "Rue Navette",,,,way
-"Rue Nesto-Michel",,,,way
+"Rue Nesto Michel",,,,way
 "Rue Neuve",,,,way
 "Rue Neuville",,,,way
 "Rue Nicolas Coumans",,,,way
@@ -1002,6 +980,7 @@ Rodgy-Thier,,,,way
 "Rue Nysten",,,,way
 "Rue Oscar Beck",,,,way
 "Rue Oscar Englebert",,,,way
+"Rue Oscar Flesch",,,,way
 "Rue Oscar Remy",,,,way
 "Rue Ovide Decroly",,,,way
 "Rue Paire Maquet",,,,way
@@ -1044,7 +1023,6 @@ Rodgy-Thier,,,,way
 "Rue Provinciale - Rue François Lefèbvre",,,,way
 "Rue Puits-en-Sock",,,,way
 "Rue Raes-de-Heers",,,,way
-"Rue Raikem",,,,way
 "Rue Ramoux",,,,way
 "Rue Ransonnet",,,,way
 "Rue Ravinhay",,,,way
@@ -1105,7 +1083,6 @@ Rodgy-Thier,,,,way
 "Rue Sainte-Marguerite",,,,way
 "Rue Sainte-Walburge",,,,way
 "Rue Salvador",,,,way
-"Rue Salvador Allende",,,,way
 "Rue Sart-Blanche",,,,way
 "Rue Sart-Moray",,,,way
 "Rue Saumery",,,,way
@@ -1184,7 +1161,6 @@ Rodgy-Thier,,,,way
 "Rue Walthère Dewé",,,,way
 "Rue Walthère Jamar",,,,way
 "Rue Walthère Lallemand",,,,way
-"Rue Wazon",,,,way
 "Rue Wérihet",,,,way
 "Rue Wesphal",,,,way
 "Rue Wibrin",,,,way
@@ -1194,13 +1170,9 @@ Rodgy-Thier,,,,way
 "Rue Zabay",,,,way
 "Rue aux Chevaux",,,,way
 "Rue aux Frênes",,,,way
-"Rue d'Alleur",,,,way
 "Rue d'Amay",,,,way
 "Rue d'Amercoeur",,,,way
-"Rue d'Angleur",,,,way
 "Rue d'Ans",,,,relation
-"Rue d'Anthisnes",,,,way
-"Rue d'Awans",,,,way
 "Rue d'Elmer",,,,way
 "Rue d'Embourg",,,,way
 "Rue d'Esch-Sur-Alzette",,,,way
@@ -1209,11 +1181,11 @@ Rodgy-Thier,,,,way
 "Rue d'Omalius",,,,way
 "Rue d'Ougrée",,,,way
 "Rue de Belle-Île",,,,way
-"Rue de Belle-île",,,,way
 "Rue de Berghes",,,,way
 "Rue de Berloz",,,,way
 "Rue de Bex",,,,way
 "Rue de Beyne",,,,way
+"Rue de Bierthe",,,,way
 "Rue de Bois de Breux",,,,way
 "Rue de Bois de Breux - Large Voie",,,,way
 "Rue de Boncelles",,,,way
@@ -1298,7 +1270,6 @@ Rodgy-Thier,,,,way
 "Rue de l'Agneau",,,,way
 "Rue de l'Aigle Noir",,,,way
 "Rue de l'Alignement",,,,way
-"Rue de l'Amblève",,,,way
 "Rue de l'Ancienne École",,,,way
 "Rue de l'Araine",,,,way
 "Rue de l'Arbois",,,,way
@@ -1337,7 +1308,6 @@ Rodgy-Thier,,,,way
 "Rue de l'Oasis",,,,way
 "Rue de l'Official",,,,way
 "Rue de l'Orphéon",,,,way
-"Rue de l'Ourthe",,,,way
 "Rue de l'Université",,,,way
 "Rue de l'Usine",,,,way
 "Rue de la Barge",,,,way
@@ -1543,8 +1513,6 @@ Rodgy-Thier,,,,way
 "Rue des Grands Prés",,,,way
 "Rue des Grands-Champs",,,,way
 "Rue des Gravillons",,,,way
-"Rue des Grignoux",,,,way
-"Rue des Guillemins",,,,way
 "Rue des Haisses",,,,way
 "Rue des Haveurs",,,,way
 "Rue des Heids",,,,way
@@ -1650,7 +1618,6 @@ Rodgy-Thier,,,,way
 "Rue des Vieilles-Terres",,,,way
 "Rue des Vignerons",,,,way
 "Rue des Vignes",,,,way
-"Rue des Vingt-Deux",,,,way
 "Rue des Wallons",,,,way
 "Rue des jasmins",,,,way
 "Rue du Bâneux",,,,way
@@ -1782,7 +1749,6 @@ Rodgy-Thier,,,,way
 "Rue du Ruisseau",,,,way
 "Rue du Ry",,,,way
 "Rue du Sart Tilman",,,,way
-"Rue du Sart-Lohé",,,,way
 "Rue du Sart-Lohê",,,,way
 "Rue du Sart-Moray",,,,way
 "Rue du Sergent Merx",,,,way
@@ -1824,7 +1790,6 @@ Rodgy-Thier,,,,way
 "Ruelle des Myosotis - Rue d'Awans",,,,way
 "Ruelle des Waides",,,,way
 "Ruelle du Tramway",,,,way
-"Rus Oscar Flesch",,,,way
 "Sart aux Fraises",,,,way
 "Sentier Lavoir",,,,way
 "Sentier Matraîfosse",,,,way
@@ -1891,7 +1856,6 @@ Rodgy-Thier,,,,way
 "Vôye des Cotch'trèsses",,,,way
 "Vôye des treûs Bouhons",,,,way
 "Waide des Dames",,,,way
-"Zone de manoeuvre Rue  du Général Modard",,,,way
 "chemin du Champ des Oiseaux",,,,way
 "rue René Demoitelle",,,,way
 "rue de tilff",,,,way
