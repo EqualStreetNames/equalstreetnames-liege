@@ -249,9 +249,9 @@ Coclisart,,,,way
 "Cour des Mineurs",,,,way
 "Cour des Minimes",,,,way
 "Cour du Rivage",,,,way
+"Degré des Artisans",,,,way
 "Degrés Jacques Izoard",,,,way
 "Degrés Saint-Pierre",,,,way
-"Degrés des Artisans",,,,way
 "Degrès des Dentellières",,,,way
 "Degrés des Jésuites Anglais",,,,way
 "Degrés des Tisserands",,,,way
@@ -370,10 +370,10 @@ Lavaniste-Voie,,,,way
 "Place Pierre Clerdent",,,,relation
 "Place Rosa Parks",,,,way
 "Place Saint Denis",,,,way
-"Place Saint Jacques",,,,way
 "Place Saint-Barthélemy",,,,way
 "Place Saint-Christophe",,,,way
 "Place Saint-Étienne",,,,way
+"Place Saint-Jacques",,,,way
 "Place Saint-Lambert",,,,relation+way
 "Place Saint-Michel",,,,way
 "Place Saint-Nicolas",,,,way
@@ -649,6 +649,7 @@ Rodgy-Thier,,,,way
 "Rue Dassonville",,,,way
 "Rue Daussoigne-Méhul",,,,way
 "Rue David",,,,way
+"Rue Defêchereux",,,,way
 "Rue Defrance",,,,way
 "Rue Defrêcheux",,,,way
 "Rue Dehin",,,,way
@@ -747,7 +748,6 @@ Rodgy-Thier,,,,way
 "Rue Frère Michel",,,,way
 "Rue Frésart",,,,way
 "Rue Fusch",,,,way
-"Rue Gaillard Cheval",,,,way
 "Rue Gaillard-Cheval",,,,way
 "Rue Galilée",,,,way
 "Rue Garde-Dieu",,,,way
@@ -799,7 +799,6 @@ Rodgy-Thier,,,,way
 "Rue Henri Alexandre",,,,way
 "Rue Henri Baron",,,,way
 "Rue Henri Bles",,,,way
-"Rue Henri Defêchereux",,,,way
 "Rue Henri Dumoulin",,,,way
 "Rue Henri Dunant",,,,way
 "Rue Henri Forir",,,,way
@@ -1128,8 +1127,8 @@ Rodgy-Thier,,,,way
 "Rue Trappé",,,,way
 "Rue Tribouillet",,,,way
 "Rue Triolet",,,,way
-"Rue Trou Louette",,,,way
 "Rue Trou Souris",,,,way
+"Rue Trou-Louette",,,,way
 "Rue Vaherlisse",,,,way
 "Rue Valdor",,,,way
 "Rue Valère Hénault",,,,way
@@ -1158,8 +1157,8 @@ Rodgy-Thier,,,,way
 "Rue Volière",,,,way
 "Rue Wacheray",,,,way
 "Rue Waleffe",,,,way
-"Rue Waltère Hamay",,,,way
 "Rue Walthère Dewé",,,,way
+"Rue Walthère Hannay",,,,way
 "Rue Walthère Jamar",,,,way
 "Rue Walthère Lallemand",,,,way
 "Rue Wérihet",,,,way
@@ -1315,7 +1314,7 @@ Rodgy-Thier,,,,way
 "Rue de la Barrière",,,,way
 "Rue de la Batterie",,,,way
 "Rue de la Belle Fleur",,,,way
-"Rue de la Belle-Jardinière",,,,way
+"Rue de la Belle Jardinière",,,,way
 "Rue de la Bergerie",,,,way
 "Rue de la Boucherie",,,,way
 "Rue de la Boulangerie",,,,way
@@ -1553,7 +1552,7 @@ Rodgy-Thier,,,,way
 "Rue des Montagnards",,,,way
 "Rue des Moulins",,,,way
 "Rue des Muguets",,,,way
-"Rue des Myrtilles",,,,way
+"Rue des Myrtilles (servitude publique)",,,,way
 "Rue des Naiveux",,,,way
 "Rue des Neuf-Journaux",,,,way
 "Rue des Neuves Brassines",,,,way
