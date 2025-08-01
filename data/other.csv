@@ -2,7 +2,6 @@ name,source,gender,wikidata,type
 "Avenue d'Aix-la-Chapelle",wikidata,,Q1017,way
 "Avenue de Cologne",wikidata,,Q365,way
 "Avenue de Lille",wikidata,,Q648,way
-Outremeuse,wikidata,,Q2190711,relation
 "Pont Atlas",wikidata,,Q2869444,way
 "Pont d'Amercœur",wikidata,,Q2842792,way
 "Quai de Rome",wikidata,,Q220,way
@@ -321,6 +320,7 @@ Lavaniste-Voie,,,,way
 "Montagne Sainte-Walburge",,,,way
 "Montée directe trail",,,,way
 "New Space access",,,,way
+Outremeuse,,,,relation
 "Parc Sauveur",,,,way
 "Parc d'Avroy",,,,way
 "Parc de la Boverie",,,,way
@@ -509,7 +509,6 @@ RAVeL,,,,way
 "Ravel 5 (Ligne 38)",,,,way
 "Résidence Fraternité",,,,way
 Rivage-en-Pot,,,,way
-"Rodgy Thier",,,,way
 Rodgy-Thier,,,,way
 "Rond-Point Marcel Florkin",,,,way
 "Rond-Point Simone David Constant",,,,way
@@ -1778,7 +1777,6 @@ Rodgy-Thier,,,,way
 "Rue sur l'Ile",,,,way
 "Rue sur la Fontaine",,,,way
 "Rue sur les Foulons",,,,way
-"Rue sur les Pleins",,,,way
 "Ruelle Falihe",,,,way
 "Ruelle Hierby",,,,way
 "Ruelle Paradis",,,,way
@@ -1857,5 +1855,4 @@ Rodgy-Thier,,,,way
 "Vôye des treûs Bouhons",,,,way
 "Waide des Dames",,,,way
 "chemin du Champ des Oiseaux",,,,way
-"rue René Demoitelle",,,,way
 "rue de tilff",,,,way
