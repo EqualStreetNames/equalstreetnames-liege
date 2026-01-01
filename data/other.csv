@@ -36,7 +36,6 @@ name,source,gender,wikidata,type
 "Autoroute du Soleil",,,,way
 "Aux Piedroux",,,,way
 "Avenue Albert Mahiels",,,,way
-"Avenue Brigade Piron",,,,way
 "Avenue Cardinal Mercier",,,,way
 "Avenue Constantin de Gerlache",,,,way
 "Avenue Dieudonné Lambrecht",,,,way
@@ -92,6 +91,7 @@ name,source,gender,wikidata,type
 "Avenue du Hêtre",,,,way
 "Avenue du Luxembourg",,,,way
 "Avenue du Petit-Bourgogne",,,,way
+"Avenue du Progrès",,,,way
 "Avenue du Tennis",,,,way
 "Avenue du Théâtre de Verdure",,,,way
 "Boulevard Carton de Wiart",,,,way
@@ -337,7 +337,6 @@ Passerelle,,,,way
 "Place Havart",,,,way
 "Place Hector Denis",,,,way
 "Place Henri Simon",,,,way
-"Place Henriette Brenu",,,,way
 "Place Hocheporte",,,,way
 "Place Hors-Ville",,,,way
 "Place Hubert-Pissard",,,,way
@@ -447,12 +446,9 @@ Passerelle,,,,way
 Potiérue,,,,way
 "Promenade des Jardins d'Eau",,,,way
 Publémont,,,,way
-"Quai Banning",,,,way
-"Quai Bonaparte",,,,way
 "Quai Churchill",,,,way
 "Quai Édouard Van Beneden",,,,way
 "Quai Gloesener",,,,way
-"Quai Henri Borguet",,,,way
 "Quai Joseph Wauters",,,,way
 "Quai Marcellis",,,,way
 "Quai Mativa",,,,way
@@ -501,7 +497,6 @@ Rodgy-Thier,,,,way
 "Rue A Matche",,,,way
 "Rue Achille Lebeau",,,,way
 "Rue Adélaïde Coudère",,,,way
-"Rue Adolphe Borgnet",,,,way
 "Rue Adolphe Maréchal",,,,way
 "Rue Adolphe Renson",,,,way
 "Rue Adrien de Witte",,,,way
@@ -531,6 +526,7 @@ Rodgy-Thier,,,,way
 "Rue Aux-Pierres",,,,way
 "Rue Bagolet",,,,relation+way
 "Rue Baille-Colleye",,,,way
+"Rue Bailleux",,,,way
 "Rue Bailly-Deflandre",,,,way
 "Rue Bairoua",,,,way
 "Rue Barbe d'Or",,,,way
@@ -538,7 +534,6 @@ Rodgy-Thier,,,,way
 "Rue Basse Cour",,,,way
 "Rue Basse Sauvenière",,,,way
 "Rue Basse-Wez",,,,way
-"Rue Bassenge",,,,way
 "Rue Bastin",,,,way
 "Rue Beauregard",,,,way
 "Rue Beeckman",,,,way
@@ -571,8 +566,6 @@ Rodgy-Thier,,,,way
 "Rue Bossy",,,,way
 "Rue Bourdon",,,,way
 "Rue Bovy",,,,way
-"Rue Brahy",,,,way
-"Rue Brailleux",,,,way
 "Rue Branche Planchard",,,,way
 "Rue Burenville",,,,way
 "Rue Burton",,,,way
@@ -590,7 +583,6 @@ Rodgy-Thier,,,,way
 "Rue Chapeauville",,,,way
 "Rue Chapelle-des-Clercs",,,,way
 "Rue Charlemagne",,,,way
-"Rue Charles Bartholomez",,,,way
 "Rue Charles Gothier",,,,way
 "Rue Charles Horion",,,,way
 "Rue Charles Lejeune",,,,way
@@ -651,7 +643,6 @@ Rodgy-Thier,,,,way
 "Rue Deveux",,,,way
 "Rue Dieudonné Defrance",,,,way
 "Rue Dieudonné Salme",,,,way
-"Rue Docteur Bordet",,,,way
 "Rue Docteur Rasquinet",,,,way
 "Rue Donceel",,,,way
 "Rue Dony",,,,way
@@ -687,7 +678,6 @@ Rodgy-Thier,,,,way
 "Rue Félix Chaumont",,,,way
 "Rue Félix Vandersnoeck",,,,way
 "Rue Félix-Paulsen",,,,way
-"Rue Ferdinand Borny",,,,way
 "Rue Ferdinand Desoer",,,,way
 "Rue Ferdinand Heuveneers",,,,way
 "Rue Ferdinand Nicolay",,,,way
@@ -719,7 +709,6 @@ Rodgy-Thier,,,,way
 "Rue Foxhalle",,,,way
 "Rue Fraîche",,,,relation
 "Rue Fraischamps",,,,way
-"Rue François Bovesse",,,,way
 "Rue François Lefèbvre",,,,way
 "Rue François Paquay",,,,way
 "Rue François Paul",,,,way
@@ -774,12 +763,10 @@ Rodgy-Thier,,,,way
 "Rue Heid de Maël",,,,way
 "Rue Hélène van Heule",,,,way
 "Rue Hemricourt",,,,way
-"Rue Henkart",,,,way
 "Rue Hennequin",,,,way
 "Rue Hennet",,,,way
 "Rue Henri Alexandre",,,,way
 "Rue Henri Baron",,,,way
-"Rue Henri Bles",,,,way
 "Rue Henri Dumoulin",,,,way
 "Rue Henri Dunant",,,,way
 "Rue Henri Forir",,,,way
@@ -808,8 +795,6 @@ Rodgy-Thier,,,,way
 "Rue Jacquet",,,,way
 "Rue Jambe de Bois",,,,way
 "Rue Jamin Saint-Roch",,,,way
-"Rue Jean Bosly",,,,way
-"Rue Jean Bury",,,,way
 "Rue Jean Dister",,,,way
 "Rue Jean Etienne",,,,way
 "Rue Jean Haust",,,,way
@@ -876,7 +861,6 @@ Rodgy-Thier,,,,way
 "Rue Lambert Grisard",,,,way
 "Rue Lambert Lombard",,,,way
 "Rue Lambert Suavius",,,,way
-"Rue Lambert-le-Bègue",,,,way
 "Rue Lambinon",,,,way
 "Rue Laport",,,,way
 "Rue Large",,,,way
@@ -899,7 +883,6 @@ Rodgy-Thier,,,,way
 "Rue Longue",,,,way
 "Rue Lonhienne",,,,way
 "Rue Louis Bonfond",,,,way
-"Rue Louis Boumal",,,,way
 "Rue Louis Fraigneux",,,,way
 "Rue Louis Pasteur",,,,way
 "Rue Louis Willems",,,,way
@@ -926,7 +909,6 @@ Rodgy-Thier,,,,way
 "Rue Matteoti",,,,way
 "Rue Maurice Wilmotte",,,,way
 "Rue Maurice Yans",,,,way
-"Rue Max Buset",,,,way
 "Rue Méan",,,,way
 "Rue Méaroulle",,,,way
 "Rue Mère Dieu",,,,way
@@ -1072,7 +1054,6 @@ Rodgy-Thier,,,,way
 "Rue Schmerling",,,,way
 "Rue Sébastien Laruelle",,,,way
 "Rue Servais Malaise",,,,relation
-"Rue Simon Burnet",,,,way
 "Rue Simon Radoux",,,,way
 "Rue Simonon",,,,way
 "Rue Sœur Lutgardis",,,,way
@@ -1095,12 +1076,10 @@ Rodgy-Thier,,,,way
 "Rue Tanixhe",,,,way
 "Rue Tesny",,,,way
 "Rue Tête de Boeuf",,,,way
-"Rue Théo Beauduin",,,,way
 "Rue Théodore Bouille",,,,way
 "Rue Théodore Cuitte",,,,way
 "Rue Théodore Schwann",,,,way
 "Rue Théodore de Bry",,,,way
-"Rue Théophile Bovy",,,,way
 "Rue Thier del Dague",,,,way
 "Rue Thône",,,,way
 "Rue Tour-en-Bêche",,,,way
@@ -1166,11 +1145,9 @@ Rodgy-Thier,,,,way
 "Rue de Berghes",,,,way
 "Rue de Berloz",,,,way
 "Rue de Bex",,,,way
-"Rue de Beyne",,,,way
 "Rue de Bierthe",,,,way
 "Rue de Bois de Breux",,,,way
 "Rue de Bois de Breux - Large Voie",,,,way
-"Rue de Boncelles",,,,way
 "Rue de Bourgogne",,,,way
 "Rue de Brialmont",,,,way
 "Rue de Campine",,,,way
@@ -1614,14 +1591,12 @@ Rodgy-Thier,,,,way
 "Rue du Beau-Site",,,,way
 "Rue du Bêchuron",,,,way
 "Rue du Bel-Horizon",,,,way
-"Rue du Bénélux",,,,way
 "Rue du Biez",,,,way
 "Rue du Bois Saint-Jean",,,,way
 "Rue du Bois Sauvage",,,,way
 "Rue du Bois-Joli",,,,way
 "Rue du Boisselier",,,,way
 "Rue du Boqueteau",,,,way
-"Rue du Borinage",,,,way
 "Rue du Bosquet",,,,way
 "Rue du Calvaire",,,,way
 "Rue du Canal-de-l'Ourthe",,,,way
@@ -1665,7 +1640,6 @@ Rodgy-Thier,,,,way
 "Rue du Fourneau",,,,way
 "Rue du Gai Logis",,,,way
 "Rue du Gay Village",,,,way
-"Rue du Général Bertrand",,,,way
 "Rue du Général Charles Collyns",,,,way
 "Rue du Général Modard",,,,way
 "Rue du Géron",,,,way
@@ -1702,6 +1676,7 @@ Rodgy-Thier,,,,way
 "Rue du Parc",,,,way
 "Rue du Parlement",,,,way
 "Rue du Passage-d'Eau",,,,way
+"Rue du Pavillon",,,,way
 "Rue du Pays de Liège - Route du Pays de Liège",,,,way
 "Rue du Perron",,,,way
 "Rue du Petit Chêne",,,,way

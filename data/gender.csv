@@ -1,4 +1,5 @@
 name,source,gender,wikidata,type
+"Avenue Brigade Piron",wikidata,-,Q2036237,way
 "Avenue d'Aix-la-Chapelle",wikidata,-,Q1017,way
 "Avenue de Cologne",wikidata,-,Q365,way
 "Avenue de Lille",wikidata,-,Q648,way
@@ -13,6 +14,8 @@ name,source,gender,wikidata,type
 "Rue d'Angleur",wikidata,-,Q540710,way
 "Rue d'Anthisnes",wikidata,-,Q572472,way
 "Rue d'Awans",wikidata,-,Q680564,way
+"Rue de Beyne",wikidata,-,Q681039,way
+"Rue de Boncelles",wikidata,-,Q2909967,way
 "Rue de Bruxelles",wikidata,-,Q239,way
 "Rue de Tilff",wikidata,-,Q2721304,way
 "Rue de l'Amblève",wikidata,-,Q461361,way
@@ -21,6 +24,8 @@ name,source,gender,wikidata,type
 "Rue des Grignoux",wikidata,-,Q18015206,way
 "Rue des Guillemins",wikidata,-,Q2004943,way
 "Rue des Vingt-Deux",wikidata,-,Q24928891,way
+"Rue du Bénélux",wikidata,-,Q13116,way
+"Rue du Borinage",wikidata,-,Q182920,way
 "Allée Charlotte Hauglustaine",wikidata,F,Q62019715,way
 "Allée Maria Goeppert",wikidata,F,Q57100,way
 "Allée Zoé Gatti de Gamond",wikidata,F,Q3576211,way
@@ -30,6 +35,7 @@ name,source,gender,wikidata,type
 "Esplanade Jeanne Rademackers",wikidata,F,Q87391174,way
 "Esplanade Simone Veil",wikidata,F,Q298180,way
 "Place Émilie Noulet",wikidata,F,Q1337342,way
+"Place Henriette Brenu",wikidata,F,Q3132455,way
 "Place Reine Astrid",wikidata,F,Q230238,way
 "Rue Marie Defrère",wikidata,F,Q105808519,way
 "Autoroute Roi Baudouin",wikidata,M,Q12976,way
@@ -42,26 +48,37 @@ name,source,gender,wikidata,type
 "Boulevard Frère-Orban",wikidata,M,Q705791,way
 "Esplanade Albert 1er",wikidata,M,Q55008046,way
 "Montagne de Bueren",wikidata,M,Q30223292,way
+"Place Baugniet",wikidata,M,Q1855119,way
 "Place Communale",wikidata,M,Q261978,way
 "Place Delcour",wikidata,M,Q1994276,way
 "Place Louis de Geer",wikidata,M,Q1871628,way
 "Place Théodore Gobert",wikidata,M,Q3526425,way
 "Pont Kennedy",wikidata,M,Q9696,way
 "Pont du Roi Albert",wikidata,M,Q55008046,way
+"Quai Banning",wikidata,M,Q863514,way
+"Quai Bonaparte",wikidata,M,Q517,way
 "Quai Godefroid Kurth",wikidata,M,Q710649,way
+"Quai Henri Borguet",wikidata,M,Q83639102,way
 "Quai Orban",wikidata,M,Q705791,way
 "Quai Paul van Hoegaerden",wikidata,M,Q2317823;Q705791,way
 "Quai Roosevelt",wikidata,M,Q8007,way
 "Rue Adelin et Jules Husson",wikidata,M,Q2824205,way
+"Rue Adolphe Borgnet",wikidata,M,Q2824780,way
 "Rue Albert de Cuyck",wikidata,M,Q972259,way
 "Rue Ambiorix",wikidata,M,Q12847,way
 "Rue André Dumont",wikidata,M,Q519775,way
 "Rue Auguste Buisseret",wikidata,M,Q551978,way
+"Rue Bassenge",wikidata,M,Q3168192,way
+"Rue Brahy",wikidata,M,Q13217028,way
 "Rue César Franck",wikidata,M,Q50187,way
+"Rue Charles Bartholomez",wikidata,M,Q63294464,way
 "Rue Charles Magnette",wikidata,M,Q182752,way
+"Rue Docteur Bordet",wikidata,M,Q211787,way
 "Rue Ernest Solvay",wikidata,M,Q311665,way
 "Rue Etienne Soubre",wikidata,M,Q290089,way
+"Rue Ferdinand Borny",wikidata,M,Q115848988,way
 "Rue Ferdinand Campus",wikidata,M,Q100698485,way
+"Rue François Bovesse",wikidata,M,Q1390661,way
 "Rue Gaspard Monge",wikidata,M,Q206832,way
 "Rue Général de Gaulle",wikidata,M,Q2042,way
 "Rue Georges Antoine",wikidata,M,Q3102191,way
@@ -70,21 +87,32 @@ name,source,gender,wikidata,type
 "Rue Grandgagnage",wikidata,M,Q1064591,way
 "Rue Grétry",wikidata,M,Q210962,way
 "Rue Hector Chainaye",wikidata,M,Q3129224,way
+"Rue Henkart",wikidata,M,Q84841473,way
+"Rue Henri Bles",wikidata,M,Q677006,way
 "Rue Henri Orban",wikidata,M,Q1917874,way
 "Rue Henri de Louvain",wikidata,M,Q261978,way
 "Rue Jean Allard",wikidata,M,Q2230429,way
+"Rue Jean Bosly",wikidata,M,Q17715669,way
+"Rue Jean Bury",wikidata,M,Q3171039,way
 "Rue Jean Delvoye",wikidata,M,Q4121546,way
 "Rue Jean Gol",wikidata,M,Q466451,way
 "Rue Jean d'Outremeuse",wikidata,M,Q1685972,way
 "Rue Joseph Demoulin",wikidata,M,Q30141814,relation
 "Rue Joseph Jaspar",wikidata,M,Q3185129,way
+"Rue Lambert-le-Bègue",wikidata,M,Q3216644,way
 "Rue Louis Abry",wikidata,M,Q3260966,way
+"Rue Louis Boumal",wikidata,M,Q3261328,way
 "Rue Louis Jamme",wikidata,M,Q3262304,way
 "Rue Marcel Thiry",wikidata,M,Q2146661,way
 "Rue Martin Luther King",wikidata,M,Q8027,way
 "Rue Mathieu Polain",wikidata,M,Q3298839,way
+"Rue Max Buset",wikidata,M,Q466620,way
 "Rue Monulphe",wikidata,M,Q2319824,way
 "Rue Raikem",wikidata,M,Q2129488,way
 "Rue Salvador Allende",wikidata,M,Q440,way
+"Rue Simon Burnet",wikidata,M,Q55769741,way
+"Rue Théo Beauduin",wikidata,M,Q65409375,way
+"Rue Théophile Bovy",wikidata,M,Q2358999,way
 "Rue Wazon",wikidata,M,Q129538,way
 "Rue Winston Churchill",wikidata,M,Q8016,way
+"Rue du Général Bertrand",wikidata,M,Q16438935,way
