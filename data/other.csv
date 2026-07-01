@@ -226,7 +226,6 @@ Coclisart,,,,way
 "Cour Sarton",,,,way
 "Cour Tassin",,,,way
 "Cour des Mineurs",,,,way
-"Cour des Minimes",,,,way
 "Cour du Rivage",,,,way
 "Cyclostrade de Colonster",,,,way
 "Degré des Artisans",,,,way
@@ -346,6 +345,7 @@ Outremeuse,,,,relation
 "Place Mathieu Bodson",,,,way
 "Place Nicolas Bernimolin",,,,way
 "Place Notger",,,,way
+"Place Patrice Lumumba",,,,way
 "Place Pierre Clerdent",,,,relation
 "Place Rosa Parks",,,,way
 "Place Saint Denis",,,,way
@@ -443,6 +443,8 @@ Outremeuse,,,,relation
 "Pont du Lhonneux",,,,way
 Potiérue,,,,way
 "Promenade des Jardins d'Eau",,,,way
+"Promenade des Méandres",,,,way
+"Promenade des Mouches",,,,way
 Publémont,,,,way
 "Quai Churchill",,,,way
 "Quai Édouard Van Beneden",,,,way
@@ -471,14 +473,12 @@ Publémont,,,,way
 "Quai du Bassin",,,,way
 "Quai du Condroz",,,,way
 "Quai du Halage",,,,way
-"Quai du Roi Albert",,,,way
 "Quai sur Meuse",,,,way
 "RAVeL 5",,,,way
 "RAVeL L 38",,,,way
 "RAVeL Ligne 210",,,,way
 "RAVeL Ligne 212",,,,way
 "RAVeL Ligne 31",,,,way
-"RAVeL Meuse",,,,way
 "RAVeL de l'Ourthe",,,,way
 "Rampe du Pont d'Ougrée",,,,way
 "Ravel 5 (Ligne 38)",,,,way
@@ -630,6 +630,7 @@ Rodgy-Thier,,,,way
 "Rue Demolin",,,,way
 "Rue Denis Lecocq",,,,way
 "Rue Denis Sotiau",,,,way
+"Rue Denis lecocq",,,,way
 "Rue Deprez-Houdret",,,,way
 "Rue Derrière Coronmeuse",,,,way
 "Rue Derrière le Château",,,,way
@@ -957,8 +958,8 @@ Rodgy-Thier,,,,way
 "Rue Pépin-le-Bref",,,,way
 "Rue Petite Bêche",,,,way
 "Rue Pétry",,,,way
-"Rue Pied Pont des Arches",,,,way
 "Rue Pied du Thier à Liège",,,,way
+"Rue Pied-du-Pont-des-Arches",,,,way
 "Rue Piedboeuf",,,,way
 "Rue Pierre Curie",,,,way
 "Rue Pierre Molinghen",,,,way
@@ -1804,6 +1805,7 @@ Rodgy-Thier,,,,way
 "Voie de l'Ardenne",,,,way
 "Voie de l'Audace",,,,way
 "Voie de l'Univers",,,,way
+"Voie des Deux Faubourgs",,,,way
 "Voie du Herdier",,,,way
 "Voie du Sart-Tilman",,,,way
 "Voisinage Jeanne Rombaut",,,,way
